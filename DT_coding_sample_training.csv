@@ -1,0 +1,10 @@
+﻿source,whiteListedIP,packetSize,appType,malicious
+Asia,Yes,Small,HTTP,Yes
+Asia,Yes,Large,FTP,Yes
+Asia,No,Small,HTTP,No
+Asia,Yes,Small,HTTP,Yes
+Asia,No,Medium,HTTP,No
+Asia,No,Medium,HTTP,Yes
+US,Yes,Large,FTP,No
+US,No,Medium,HTTP,No
+US,No,Medium,HTTP,No
