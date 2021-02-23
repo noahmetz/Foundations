@@ -1,0 +1,692 @@
+Column1,schid,schname,distid,dist,city,county,schtype,District Type,low,PSAE
+132,3.30E+14,Abingdon-Avon High Sch,3.30E+14,Abingdon-Avon CUSD 276,Abingdon,Knox,HIGH SCHOOL,Non Chicago School,51.5,41
+133,4.60E+14,A-C Central High School,4.60E+14,A-C Central CUSD 262,Ashland,Cass,HIGH SCHOOL,Non Chicago School,34.4,53.4
+134,3.40E+14,Adlai E Stevenson High School,3.40E+14,Adlai E Stevenson HSD 125,Lincolnshire,Lake,HIGH SCHOOL,Non Chicago School,0.1,87.5
+135,4.41E+14,Alden-Hebron High School,4.41E+14,Alden Hebron SD 19,Hebron,McHenry,HIGH SCHOOL,Non Chicago School,25.6,51.7
+136,3.03E+13,Altamont High School,3.03E+13,Altamont CUSD 10,Altamont,Effingham,HIGH SCHOOL,Non Chicago School,40.6,62.5
+137,4.11E+14,Alton High School,4.11E+14,Alton CUSD 11,Alton,Madison,HIGH SCHOOL,Non Chicago School,50.9,51.5
+138,2.80E+14,AlWoodMiddle/High School,2.80E+14,AlWood CUSD 225,Woodhull,Henry,HIGH SCHOOL,Non Chicago School,29.2,51.8
+139,4.71E+14,Amboy High School,4.71E+14,Amboy CUSD 272,Amboy,Lee,HIGH SCHOOL,Non Chicago School,30.3,56.8
+140,2.09E+13,Anna-Jonesboro High School,2.09E+13,Anna Jonesboro CHSD 81,Anna,Union,HIGH SCHOOL,Non Chicago School,43.3,46.4
+141,2.80E+14,Annawan High School,2.80E+14,Annawan CUSD 226,Annawan,Henry,HIGH SCHOOL,Non Chicago School,26.9,63.3
+142,1.10E+14,Arcola High School,1.10E+14,Arcola CUSD 306,Arcola,Douglas,HIGH SCHOOL,Non Chicago School,43,33.6
+143,3.91E+14,Argenta-Oreana High School,3.91E+14,Argenta-Oreana CUSD 1,Argenta,Macon,HIGH SCHOOL,Non Chicago School,34.8,50.7
+144,7.02E+13,Argo Community High School,7.02E+13,Argo CHSD 217,Summit,Cook,HIGH SCHOOL,Non Chicago School,65.3,43.4
+145,5.41E+14,Armstrong High School,5.41E+14,Armstrong Twp HSD 225,Armstrong,Vermilion,HIGH SCHOOL,Non Chicago School,41.5,52.4
+146,1.10E+14,Arthur-Lovington High School,1.10E+14,Arthur CUSD 305,Arthur,Douglas,HIGH SCHOOL,Non Chicago School,32.8,64.9
+147,4.71E+14,Ashton-Franklin Center HS,4.71E+14,Ashton-Franklin Center CUSD 275,Ashton,Lee,HIGH SCHOOL,Non Chicago School,30.2,50
+148,2.20E+14,Astoria High School,2.20E+14,Astoria CUSD 1,Astoria,Fulton,HIGH SCHOOL,Non Chicago School,51.9,60.9
+149,3.81E+14,Athens Sr High School,3.81E+14,Athens CUSD 213,Athens,Menard,HIGH SCHOOL,Non Chicago School,19.2,57.9
+150,3.91E+14,Atwood Hammond High School,3.91E+14,Atwood Hammond CUSD 39,Atwood,Piatt,HIGH SCHOOL,Non Chicago School,38.7,43.1
+151,5.11E+14,Auburn High School,5.11E+14,Auburn CUSD 10,Auburn,Sangamon,HIGH SCHOOL,Non Chicago School,26,59.2
+152,3.10E+14,East High School,3.10E+14,Aurora East USD 131,Aurora,Kane,HIGH SCHOOL,Non Chicago School,64.9,28.4
+153,3.10E+14,West Aurora High School,3.10E+14,Aurora West USD 129,Aurora,Kane,HIGH SCHOOL,Non Chicago School,55.3,42
+154,5.11E+14,Glenwood High School,5.11E+14,Ball Chatham CUSD 5,Chatham,Sangamon,HIGH SCHOOL,Non Chicago School,17.4,72.3
+155,3.40E+14,Barrington High School,3.40E+14,Barrington CUSD 220,Barrington,Lake,HIGH SCHOOL,Non Chicago School,19.7,77.8
+156,3.10E+14,Batavia Sr High School,3.10E+14,Batavia USD 101,Batavia,Kane,HIGH SCHOOL,Non Chicago School,11,76.6
+157,4.60E+14,Beardstown Jr/Sr High School,4.60E+14,Beardstown CUSD 15,Beardstown,Cass,HIGH SCHOOL,Non Chicago School,73.5,35.4
+158,46009015026001C,Beardstown Charter Sch Learn Acad*,4.60E+14,Beardstown CUSD 15,Beardstown,Cass,CHARTER SCH,Non Chicago School,74.3,10
+159,3.03E+13,Beecher City Jr-Sr High School,3.03E+13,Beecher City CUSD 20,Beecher City,Effingham,HIGH SCHOOL,Non Chicago School,45,55.7
+160,56099200U260001,Beecher High School,56099200U260000,Beecher CUSD 200U,Beecher,Will,HIGH SCHOOL,Non Chicago School,21.4,64.1
+161,5.01E+14,Belleville High School-East,5.01E+14,Belleville Twp HSD 201,Belleville,Saint Clair,HIGH SCHOOL,Non Chicago School,38.7,54.3
+162,5.01E+14,Belleville High School-West,5.01E+14,Belleville Twp HSD 201,Belleville,Saint Clair,HIGH SCHOOL,Non Chicago School,42.5,47.8
+163,4.00E+13,Belvidere High School,4.00E+13,Belvidere CUSD 100,Belvidere,Boone,HIGH SCHOOL,Non Chicago School,40.1,41.2
+164,4.00E+13,Belvidere North High Sch,4.00E+13,Belvidere CUSD 100,Belvidere,Boone,HIGH SCHOOL,Non Chicago School,31.6,51.6
+165,3.91E+14,Bement High School,3.91E+14,Bement CUSD 5,Bement,Piatt,HIGH SCHOOL,Non Chicago School,33.6,53.2
+166,2.10E+14,Benton Cons High School,2.10E+14,Benton Cons HSD 103,Benton,Franklin,HIGH SCHOOL,Non Chicago School,52.6,54.3
+167,4.11E+14,Civic Memorial High School,4.11E+14,Bethalto CUSD 8,Bethalto,Madison,HIGH SCHOOL,Non Chicago School,42.2,52.6
+168,5.41E+14,Bismarck-Henning High School,5.41E+14,Bismarck Henning CUSD 1,Bismarck,Vermilion,HIGH SCHOOL,Non Chicago School,29,42.5
+169,7.02E+13,Bloom High School,7.02E+13,Bloom Twp HSD 206,Chicago Heights,Cook,HIGH SCHOOL,Non Chicago School,83.8,21
+170,7.02E+13,Bloom Trail High School,7.02E+13,Bloom Twp HSD 206,Chicago Heights,Cook,HIGH SCHOOL,Non Chicago School,80.3,32.6
+171,1.71E+14,Bloomington High School,1.71E+14,Bloomington SD 87,Bloomington,McLean,HIGH SCHOOL,Non Chicago School,52.7,50.4
+172,1.70E+14,Blue Ridge High School,1.70E+14,Blue Ridge CUSD 18,Farmer City,Dewitt,HIGH SCHOOL,Non Chicago School,38.3,63.4
+173,3.00E+13,Bond Cty Comm Unit 2 High School,3.00E+13,Bond County CUSD 2,Greenville,Bond,HIGH SCHOOL,Non Chicago School,32.1,59.3
+174,3.20E+14,Bradley-Bourbonnais C High School,3.20E+14,Bradley Bourbonnais CHSD 307,Bradley,Kankakee,HIGH SCHOOL,Non Chicago School,41.9,59.5
+175,7.02E+13,Bremen High School,7.02E+13,Bremen CHSD 228,Midlothian,Cook,HIGH SCHOOL,Non Chicago School,43.3,36.1
+176,7.02E+13,Tinley Park High School,7.02E+13,Bremen CHSD 228,Tinley Park,Cook,HIGH SCHOOL,Non Chicago School,28.4,48.4
+177,7.02E+13,Hillcrest High School,7.02E+13,Bremen CHSD 228,Country Club Hill,Cook,HIGH SCHOOL,Non Chicago School,54.7,20.8
+178,7.02E+13,Oak Forest High School,7.02E+13,Bremen CHSD 228,Oak Forest,Cook,HIGH SCHOOL,Non Chicago School,25.9,56
+179,4.81E+14,Brimfield High School,4.81E+14,Brimfield CUSD 309,Brimfield,Peoria,HIGH SCHOOL,Non Chicago School,21.8,76.7
+180,5.01E+14,Lovejoy Technology Academy,5.01E+14,Brooklyn UD 188,Lovejoy,Saint Clair,HIGH SCHOOL,Non Chicago School,97.1,8.3
+181,4.60E+14,Brown County High School,4.60E+14,Brown County CUSD 1,Mount Sterling,Brown,HIGH SCHOOL,Non Chicago School,40.8,64.2
+182,3.03E+13,Brownstown High School,3.03E+13,Brownstown CUSD 201,Brownstown,Fayette,HIGH SCHOOL,Non Chicago School,46.5,29.6
+183,4.01E+14,Bunker Hill High School,4.01E+14,Bunker Hill CUSD 8,Bunker Hill,Macoupin,HIGH SCHOOL,Non Chicago School,39.9,50
+184,2.80E+14,Bureau Valley High School,2.80E+14,Bureau Valley CUSD 340,Manlius,Bureau,HIGH SCHOOL,Non Chicago School,35.9,58.4
+185,2.61E+14,Bushnell-Prairie City High Sch,2.61E+14,Bushnell Prairie City CUSD 170,Bushnell,McDonough,HIGH SCHOOL,Non Chicago School,53.3,31.1
+186,4.71E+14,Byron High School 9-12,4.71E+14,Byron CUSD 226,Byron,Ogle,HIGH SCHOOL,Non Chicago School,24.6,68.6
+187,5.01E+14,Cahokia High School,5.01E+14,Cahokia CUSD 187,Cahokia,Saint Clair,HIGH SCHOOL,Non Chicago School,85.2,21.8
+188,2.00E+13,Cairo Jr/Sr High School,2.00E+13,Cairo USD 1,Cairo,Alexander,HIGH SCHOOL,Non Chicago School,97.3,6.5
+189,4.00E+14,Calhoun High School,4.00E+14,Calhoun CUSD 40,Hardin,Calhoun,HIGH SCHOOL,Non Chicago School,33.9,57.5
+190,2.80E+14,Cambridge Jr/Sr High School,2.80E+14,Cambridge CUSD 227,Cambridge,Henry,HIGH SCHOOL,Non Chicago School,38.9,50
+191,2.20E+14,Canton High School,2.20E+14,Canton Union SD 66,Canton,Fulton,HIGH SCHOOL,Non Chicago School,49.6,49.2
+192,3.00E+14,Carbondale Comm H S,3.00E+14,Carbondale CHSD 165,Carbondale,Jackson,HIGH SCHOOL,Non Chicago School,55.1,61.6
+193,4.01E+14,Carlinville High School,4.01E+14,Carlinville CUSD 1,Carlinville,Macoupin,HIGH SCHOOL,Non Chicago School,36.1,61.8
+194,1.30E+14,Carlyle High School,1.30E+14,Carlyle CUSD 1,Carlyle,Clinton,HIGH SCHOOL,Non Chicago School,28.8,51.2
+195,2.01E+14,Carmi-White County High School,2.01E+14,Carmi-White County CUSD 5,Carmi,White,HIGH SCHOOL,Non Chicago School,30.5,35.3
+196,2.01E+14,Carrier Mills-Stonefort H S,2.01E+14,Carrier Mills-Stonefort CUSD 2,Carrier Mills,Saline,HIGH SCHOOL,Non Chicago School,55,24.1
+197,4.00E+14,Carrollton High School,4.00E+14,Carrollton CUSD 1,Carrollton,Greene,HIGH SCHOOL,Non Chicago School,35.6,66.7
+198,2.11E+14,Carterville High School,2.11E+14,Carterville CUSD 5,Carterville,Williamson,HIGH SCHOOL,Non Chicago School,38.2,74.2
+199,11012004C260001,Casey-Westfield Jr/Sr HS,11012004C260000,Casey-Westfield CUSD 4C,Casey,Clark,HIGH SCHOOL,Non Chicago School,54.2,47.4
+200,5.41E+14,Catlin High School,5.41E+14,Catlin CUSD 5,Catlin,Vermilion,HIGH SCHOOL,Non Chicago School,23.8,43.8
+201,1.11E+14,Central A & M High School,1.11E+14,Central A & M CUD 21,Moweaqua,Shelby,HIGH SCHOOL,Non Chicago School,29.5,55.5
+202,1.30E+14,Central Comm High School,1.30E+14,Central CHSD 71,Breese,Clinton,HIGH SCHOOL,Non Chicago School,25.8,63
+203,1.00E+13,Central High School,1.00E+13,Central CUSD 3,Camp Point,Adams,HIGH SCHOOL,Non Chicago School,41.8,51.5
+204,3.10E+14,Central High School,3.10E+14,Central CUSD 301,Burlington,Kane,HIGH SCHOOL,Non Chicago School,11,72.6
+205,3.20E+14,Central High School,3.20E+14,Central CUSD 4,Clifton,Iroquois,HIGH SCHOOL,Non Chicago School,39.1,52.8
+206,1.31E+14,Centralia High School,1.31E+14,Centralia HSD 200,Centralia,Marion,HIGH SCHOOL,Non Chicago School,59.9,48.8
+207,2.08E+13,Century Jr/Sr High School,2.08E+13,Century CUSD 100,Ullin,Pulaski,HIGH SCHOOL,Non Chicago School,65.9,28.8
+208,3.91E+14,Cerro Gordo High School,3.91E+14,Cerro Gordo CUSD 100,Cerro Gordo,Piatt,HIGH SCHOOL,Non Chicago School,15.5,48.8
+209,8.01E+13,Milledgeville High School,8.01E+13,Chadwick-Milledgeville CUSD 399,Milledgeville,Carroll,HIGH SCHOOL,Non Chicago School,25.6,51.1
+210,9.01E+13,Centennial High School,9.01E+13,Champaign CUSD 4,Champaign,Champaign,HIGH SCHOOL,Non Chicago School,51.3,46.9
+211,9.01E+13,Central High School,9.01E+13,Champaign CUSD 4,Champaign,Champaign,HIGH SCHOOL,Non Chicago School,47.2,49.9
+212,1.10E+14,Charleston High School,1.10E+14,Charleston CUSD 1,Charleston,Coles,HIGH SCHOOL,Non Chicago School,37,58.2
+213,4.51E+14,Chester High School,4.51E+14,Chester CUSD 139,Chester,Randolph,HIGH SCHOOL,Non Chicago School,37.5,47.8
+214,2.10E+14,Christopher High,2.10E+14,Christopher USD 99,Christopher,Franklin,HIGH SCHOOL,Non Chicago School,54.5,43
+215,3.40E+14,Antioch Comm High School,3.40E+14,CHSD 117,Antioch,Lake,HIGH SCHOOL,Non Chicago School,20.1,58.6
+216,3.40E+14,Lakes Community High School,3.40E+14,CHSD 117,Lake Villa,Lake,HIGH SCHOOL,Non Chicago School,15,69.8
+217,3.40E+14,Libertyville High School,3.40E+14,CHSD 128,Libertyville,Lake,HIGH SCHOOL,Non Chicago School,5.6,86.6
+218,3.40E+14,Vernon Hills High School,3.40E+14,CHSD 128,Vernon Hills,Lake,HIGH SCHOOL,Non Chicago School,11.4,82.7
+219,4.41E+14,Crystal Lake Central High School,4.41E+14,CHSD 155,Crystal Lake,McHenry,HIGH SCHOOL,Non Chicago School,23.3,64.9
+220,4.41E+14,Cary-Grove Community High School,4.41E+14,CHSD 155,Cary,McHenry,HIGH SCHOOL,Non Chicago School,11.5,74.9
+221,4.41E+14,Crystal Lake South High School,4.41E+14,CHSD 155,Crystal Lake,McHenry,HIGH SCHOOL,Non Chicago School,12.2,66.6
+222,4.41E+14,Prairie Ridge High School,4.41E+14,CHSD 155,Crystal Lake,McHenry,HIGH SCHOOL,Non Chicago School,8.4,74.3
+223,7.02E+13,DD Eisenhower High Sch (Campus),7.02E+13,CHSD 218,Blue Island,Cook,HIGH SCHOOL,Non Chicago School,81.4,29.3
+224,7.02E+13,H L Richards High Sch(Campus),7.02E+13,CHSD 218,Oak Lawn,Cook,HIGH SCHOOL,Non Chicago School,61,45.6
+225,7.02E+13,A B Shepard High Sch (Campus),7.02E+13,CHSD 218,Palos Heights,Cook,HIGH SCHOOL,Non Chicago School,53.9,45.8
+226,1.90E+14,Community High School,1.90E+14,CHSD 94,West Chicago,Dupage,HIGH SCHOOL,Non Chicago School,21.2,46.4
+227,1.90E+14,Comm H S Dist 99 - North H S,1.90E+14,CHSD 99,Downers Grove,Dupage,HIGH SCHOOL,Non Chicago School,20.5,77.4
+228,1.90E+14,Comm H S Dist 99 - South High Sch,1.90E+14,CHSD 99,Downers Grove,Dupage,HIGH SCHOOL,Non Chicago School,29.5,67.1
+229,3.20E+14,Cissna Park Sr High School,3.20E+14,Cissna Park CUSD 6,Cissna Park,Iroquois,HIGH SCHOOL,Non Chicago School,0,64.3
+230,1.20E+14,Clay City High School,1.20E+14,Clay City CUSD 10,Clay City,Clay,HIGH SCHOOL,Non Chicago School,34.4,41.7
+231,1.70E+14,Clinton High School,1.70E+14,Clinton CUSD 15,Clinton,Dewitt,HIGH SCHOOL,Non Chicago School,40.2,42.7
+232,2.40E+14,Coal City High School,2.40E+14,Coal City CUSD 1,Coal City,Grundy,HIGH SCHOOL,Non Chicago School,26.7,66.8
+233,2.09E+13,Cobden High School,2.09E+13,Cobden SUD 17,Cobden,Union,HIGH SCHOOL,Non Chicago School,56.3,52.9
+234,4.11E+14,Collinsville High School,4.11E+14,Collinsville CUSD 10,Collinsville,Madison,HIGH SCHOOL,Non Chicago School,48.6,46.6
+235,4.51E+14,Columbia High School,4.51E+14,Columbia CUSD 4,Columbia,Monroe,HIGH SCHOOL,Non Chicago School,12.3,66
+236,7.02E+13,Carl Sandburg High School,7.02E+13,Cons HSD 230,Orland Park,Cook,HIGH SCHOOL,Non Chicago School,12.6,66.3
+237,7.02E+13,Amos Alonzo Stagg High School,7.02E+13,Cons HSD 230,Palos Hills,Cook,HIGH SCHOOL,Non Chicago School,32.4,57.6
+238,7.02E+13,Victor J Andrew High School,7.02E+13,Cons HSD 230,Orland Hills,Cook,HIGH SCHOOL,Non Chicago School,16.2,66.5
+239,4.41E+14,Huntley High School,4.41E+14,Cons SD 158,Huntley,McHenry,HIGH SCHOOL,Non Chicago School,8,69.9
+240,4.51E+14,Coulterville High School,4.51E+14,Coulterville USD 1,Coulterville,Randolph,HIGH SCHOOL,Non Chicago School,43.9,41.7
+241,4.10E+13,South Beloit Sr High School,4.10E+13,County of Winnebago SD 320,South Beloit,Winnebago,HIGH SCHOOL,Non Chicago School,60.5,59.1
+242,4.31E+14,Metamora High School,4.31E+14,County of Woodford School,Metamora,Woodford,HIGH SCHOOL,Non Chicago School,13.6,74.4
+243,11087003A260001,Cowden-Herrick Jr/Sr High School,11087003A260000,Cowden-Herrick CUSD 3A,Cowden,Shelby,HIGH SCHOOL,Non Chicago School,60.4,34.5
+244,2.11E+14,Crab Orchard High School,2.11E+14,Crab Orchard CUSD 3,Marion,Williamson,HIGH SCHOOL,Non Chicago School,45.3,43.4
+245,56099201U260001,Crete-Monee High School,56099201U260000,Crete Monee CUSD 201U,Crete,Will,HIGH SCHOOL,Non Chicago School,64.3,43.1
+246,1.10E+14,Cumberland High School,1.10E+14,Cumberland CUSD 77,Toledo,Cumberland,HIGH SCHOOL,Non Chicago School,39.9,39.4
+247,1.90E+14,Wheaton Warrenville South H S,1.90E+14,CUSD 200,Wheaton,Dupage,HIGH SCHOOL,Non Chicago School,20.3,68.9
+248,1.90E+14,Wheaton North High School,1.90E+14,CUSD 200,Wheaton,Dupage,HIGH SCHOOL,Non Chicago School,24.4,77
+249,1.90E+14,Westmont High School,1.90E+14,CUSD 201,Westmont,Dupage,HIGH SCHOOL,Non Chicago School,35.3,69.1
+250,2.20E+14,Cuba Sr High School,2.20E+14,CUSD 3 Fulton County,Cuba,Fulton,HIGH SCHOOL,Non Chicago School,60,35.7
+251,3.10E+14,Dundee-Crown High School,3.10E+14,CUSD 300,Carpentersville,Kane,HIGH SCHOOL,Non Chicago School,58.6,44.2
+252,3.10E+14,Hampshire High School,3.10E+14,CUSD 300,Hampshire,Kane,HIGH SCHOOL,Non Chicago School,26.7,62
+253,3.10E+14,Harry D Jacobs High School,3.10E+14,CUSD 300,Algonquin,Kane,HIGH SCHOOL,Non Chicago School,23.1,66.9
+254,1.00E+13,Unity High School,1.00E+13,CUSD 4,Mendon,Adams,HIGH SCHOOL,Non Chicago School,25.5,47.7
+255,8.09E+13,Dakota Jr Sr High School,8.09E+13,Dakota CUSD 201,Dakota,Stephenson,HIGH SCHOOL,Non Chicago School,28.1,70.3
+256,5.41E+14,Danville High School,5.41E+14,Danville CCSD 118,Danville,Vermilion,HIGH SCHOOL,Non Chicago School,67.8,35.4
+257,3.91E+14,Eisenhower High School,3.91E+14,Decatur SD 61,Decatur,Macon,HIGH SCHOOL,Non Chicago School,70.4,30.2
+258,3.91E+14,MacArthur High School,3.91E+14,Decatur SD 61,Decatur,Macon,HIGH SCHOOL,Non Chicago School,65.5,34.7
+259,5.31E+14,Dee-Mack High School,5.31E+14,Deer Creek-Mackinaw CUSD 701,Mackinaw,Tazewell,HIGH SCHOOL,Non Chicago School,28.4,68.6
+260,1.60E+14,De Kalb High School,1.60E+14,DeKalb CUSD 428,Dekalb,Dekalb,HIGH SCHOOL,Non Chicago School,45.9,47.9
+261,3.91E+14,Deland-Weldon High School,3.91E+14,Deland-Weldon CUSD 57,De Land,Piatt,HIGH SCHOOL,Non Chicago School,40.7,42.9
+262,5.31E+14,Delavan High School,5.31E+14,Delavan CUSD 703,Delavan,Tazewell,HIGH SCHOOL,Non Chicago School,27.9,55
+263,2.80E+14,DePue High School,2.80E+14,DePue USD 103,DePue,Bureau,HIGH SCHOOL,Non Chicago School,96.6,31.3
+264,3.03E+13,Dieterich Jr/Sr High School,3.03E+13,Dieterich CUSD 30,Dieterich,Effingham,HIGH SCHOOL,Non Chicago School,28.3,64.9
+265,4.71E+14,Dixon High School,4.71E+14,Dixon USD 170,Dixon,Lee,HIGH SCHOOL,Non Chicago School,36.4,51.7
+266,2.09E+13,Dongola High School,2.09E+13,Dongola USD 66,Dongola,Union,HIGH SCHOOL,Non Chicago School,59.3,27.5
+267,3.20E+14,Donovan Sr High School,3.20E+14,Donovan CUSD 3,Donovan,Iroquois,HIGH SCHOOL,Non Chicago School,41.2,33.3
+268,4.81E+14,Dunlap High School,4.81E+14,Dunlap CUSD 323,Dunlap,Peoria,HIGH SCHOOL,Non Chicago School,9.9,82.4
+269,1.90E+14,Addison Trail High School,1.90E+14,DuPage HSD 88,Addison,Dupage,HIGH SCHOOL,Non Chicago School,59.3,47.4
+270,1.90E+14,Willowbrook High School,1.90E+14,DuPage HSD 88,Villa Park,Dupage,HIGH SCHOOL,Non Chicago School,45.9,57.6
+271,5.01E+14,Dupo High School,5.01E+14,Dupo CUSD 196,Dupo,Saint Clair,HIGH SCHOOL,Non Chicago School,48.3,41.7
+272,3.01E+14,Duquoin High School,3.01E+14,Duquoin CUSD 300,Du Quoin,Perry,HIGH SCHOOL,Non Chicago School,43.3,60.5
+273,4.10E+13,Durand High School,4.10E+13,Durand CUSD 322,Durand,Winnebago,HIGH SCHOOL,Non Chicago School,27.9,59
+274,1.71E+14,Dwight High School,1.71E+14,Dwight Twp HSD 230,Dwight,Livingston,HIGH SCHOOL,Non Chicago School,28.6,52
+275,3.51E+14,Earlville Jr/Sr High School,3.51E+14,Earlville CUSD 9,Earlville,La Salle,HIGH SCHOOL,Non Chicago School,46.7,47.7
+276,4.11E+14,East Alton-Wood River High Sch,4.11E+14,East Alton-Wood River CHSD 14,Wood River,Madison,HIGH SCHOOL,Non Chicago School,66.1,35.6
+277,8.04E+13,East Dubuque High School,8.04E+13,East Dubuque USD 119,East Dubuque,Jo Daviess,HIGH SCHOOL,Non Chicago School,21.2,81.6
+278,5.31E+14,East Peoria High School,5.31E+14,East Peoria CHSD 309,East Peoria,Tazewell,HIGH SCHOOL,Non Chicago School,46.8,41.4
+279,1.21E+14,East Richland High School,1.21E+14,East Richland CUSD 1,Olney,Richland,HIGH SCHOOL,Non Chicago School,43.7,47.7
+280,5.01E+14,East St Louis Senior High School,5.01E+14,East St Louis SD 189,East Saint Louis,Saint Clair,HIGH SCHOOL,Non Chicago School,99.6,14.6
+281,50082189022001C,SIU Charter Sch of East St Louis*,5.01E+14,East St Louis SD 189,East Saint Louis,Saint Clair,CHARTER SCH,Non Chicago School,99.1,17.7
+282,50082189022002C,Tomorrows Builders Charter Schl*,5.01E+14,East St Louis SD 189,East Saint Louis,Saint Clair,CHARTER SCH,Non Chicago School,99,7.1
+283,8.01E+13,Eastland Jr/Sr High School,8.01E+13,Eastland CUSD 308,Lanark,Carroll,HIGH SCHOOL,Non Chicago School,33.8,64
+284,1.10E+14,Chrisman High School,1.10E+14,Edgar County CUD 6,Chrisman,Edgar,HIGH SCHOOL,Non Chicago School,30,55.6
+285,1.00E+14,Edinburg High School,1.00E+14,Edinburg CUSD 4,Edinburg,Christian,HIGH SCHOOL,Non Chicago School,2.6,28.1
+286,2.00E+14,Edwards County High School,2.00E+14,Edwards County CUSD 1,Albion,Edwards,HIGH SCHOOL,Non Chicago School,32.2,55
+287,4.11E+14,Edwardsville High School,4.11E+14,Edwardsville CUSD 7,Edwardsville,Madison,HIGH SCHOOL,Non Chicago School,13.3,73.6
+288,3.03E+13,Effingham High School,3.03E+13,Effingham CUSD 40,Effingham,Effingham,HIGH SCHOOL,Non Chicago School,28.4,54.9
+289,2.00E+13,Egyptian Sr High School,2.00E+13,Egyptian CUSD 5,Tamms,Alexander,HIGH SCHOOL,Non Chicago School,100,30
+290,4.31E+14,El Paso-Gridley High School,4.31E+14,El Paso-Gridley CUSD 11,El Paso,Woodford,HIGH SCHOOL,Non Chicago School,30.8,60.8
+291,2.01E+14,Eldorado High School,2.01E+14,Eldorado CUSD 4,Eldorado,Saline,HIGH SCHOOL,Non Chicago School,52.6,35.9
+292,1.90E+14,York Comm High School,1.90E+14,Elmhurst SD 205,Elmhurst,Dupage,HIGH SCHOOL,Non Chicago School,16.6,76.5
+293,4.81E+14,Elmwood High School,4.81E+14,Elmwood CUSD 322,Elmwood,Peoria,HIGH SCHOOL,Non Chicago School,17.8,68.6
+294,6.02E+13,Elmwood Park High School,6.02E+13,Elmwood Park CUSD 401,Elmwood Park,Cook,HIGH SCHOOL,Non Chicago School,41,53
+295,3.00E+14,Elverado High School,3.00E+14,Elverado CUSD 196,Elkville,Jackson,HIGH SCHOOL,Non Chicago School,57.8,33.8
+296,5.51E+14,Erie High School,5.51E+14,Erie CUSD 1,Erie,Whiteside,HIGH SCHOOL,Non Chicago School,27.7,75
+297,4.31E+14,Eureka High School,4.31E+14,Eureka CUD 140,Eureka,Woodford,HIGH SCHOOL,Non Chicago School,26.9,69.8
+298,5.02E+13,Evanston Twp High School,5.02E+13,Evanston Twp HSD 202,Evanston,Cook,HIGH SCHOOL,Non Chicago School,40.9,70
+299,7.02E+13,Evergreen Park High School,7.02E+13,Evergreen Park CHSD 231,Evergreen Park,Cook,HIGH SCHOOL,Non Chicago School,28.4,55.5
+300,2.01E+14,Fairfield Comm High School,2.01E+14,Fairfield Comm H S Dist 225,Fairfield,Wayne,HIGH SCHOOL,Non Chicago School,34,42.7
+301,4.81E+14,Farmington Central High Sch,4.81E+14,Farmington Central CUSD 265,Farmington,Peoria,HIGH SCHOOL,Non Chicago School,33.6,55.1
+302,1.90E+14,Fenton High School,1.90E+14,Fenton CHSD 100,Bensenville,Dupage,HIGH SCHOOL,Non Chicago School,47.6,54.1
+303,4.31E+14,Fieldcrest High School,4.31E+14,Fieldcrest CUSD 6,Minonk,Woodford,HIGH SCHOOL,Non Chicago School,43.5,47.7
+304,9.01E+13,Fisher Jr/Sr High School,9.01E+13,Fisher CUSD 1,Fisher,Champaign,HIGH SCHOOL,Non Chicago School,32.3,65.9
+305,1.71E+14,Flanagan-Cornell High School,1.71E+14,Flanagan-Cornell Dist 74,Flanagan,Livingston,HIGH SCHOOL,Non Chicago School,30.4,47
+306,1.20E+14,Flora High School,1.20E+14,Flora CUSD 35,Flora,Clay,HIGH SCHOOL,Non Chicago School,41.8,42.9
+307,4.71E+14,Forreston Jr/Sr High Sch,4.71E+14,Forrestville Valley CUSD 221,Forreston,Ogle,HIGH SCHOOL,Non Chicago School,26.4,64.5
+308,2.10E+14,Frankfort Comm High School,2.10E+14,Frankfort CUSD 168,West Frankfort,Franklin,HIGH SCHOOL,Non Chicago School,55,43.6
+309,4.61E+14,Franklin Jr/Sr High School,4.61E+14,Franklin CUSD 1,Franklin,Morgan,HIGH SCHOOL,Non Chicago School,31.5,43.2
+310,5.01E+14,Freeburg Community High Sch,5.01E+14,Freeburg CHSD 77,Freeburg,Saint Clair,HIGH SCHOOL,Non Chicago School,8.7,66.1
+311,8.09E+13,Freeport High School,8.09E+13,Freeport SD 145,Freeport,Stephenson,HIGH SCHOOL,Non Chicago School,62.5,46.2
+312,2.01E+14,Galatia High School,2.01E+14,Galatia CUSD 1,Galatia,Saline,HIGH SCHOOL,Non Chicago School,44.5,44.4
+313,8.04E+13,Galena High School,8.04E+13,Galena USD 120,Galena,Jo Daviess,HIGH SCHOOL,Non Chicago School,22.2,68.5
+314,3.30E+14,Galesburg High School,3.30E+14,Galesburg CUSD 205,Galesburg,Knox,HIGH SCHOOL,Non Chicago School,58.7,44.8
+315,2.00E+14,Gallatin High School,2.00E+14,Gallatin CUSD 7,Junction,Gallatin,HIGH SCHOOL,Non Chicago School,47.5,45.5
+316,2.80E+14,Galva Jr-Sr High School,2.80E+14,Galva CUSD 224,Galva,Henry,HIGH SCHOOL,Non Chicago School,43.5,46.1
+317,2.40E+14,Gardner-South Wilmington Twp H S,2.40E+14,Gardner S Wilmington Twp HSD 73,Gardner,Grundy,HIGH SCHOOL,Non Chicago School,17.7,57.6
+318,2.80E+14,Geneseo High School,2.80E+14,Geneseo CUSD 228,Geneseo,Henry,HIGH SCHOOL,Non Chicago School,18.1,70.4
+319,3.10E+14,Geneva Community High School,3.10E+14,Geneva CUSD 304,Geneva,Kane,HIGH SCHOOL,Non Chicago School,5.2,80.6
+320,1.60E+14,Genoa-Kingston High School,1.60E+14,Genoa Kingston CUSD 424,Genoa,Dekalb,HIGH SCHOOL,Non Chicago School,29,56.9
+321,5.41E+14,Georgetown-Ridge Farm High School,5.41E+14,Georgetown-Ridge Farm CUD 4,Georgetown,Vermilion,HIGH SCHOOL,Non Chicago School,53.9,27.3
+322,9.03E+13,GCMS High School,9.03E+13,Gibson City-Melvin-Sibley CUSD 5,Gibson City,Ford,HIGH SCHOOL,Non Chicago School,32,60.7
+323,4.01E+14,Gillespie High School,4.01E+14,Gillespie CUSD 7,Gillespie,Macoupin,HIGH SCHOOL,Non Chicago School,57.1,59.5
+324,1.90E+14,Glenbard East High School,1.90E+14,Glenbard Twp HSD 87,Lombard,Dupage,HIGH SCHOOL,Non Chicago School,43.8,55.1
+325,1.90E+14,Glenbard North High School,1.90E+14,Glenbard Twp HSD 87,Carol Stream,Dupage,HIGH SCHOOL,Non Chicago School,32.8,62.7
+326,1.90E+14,Glenbard West High School,1.90E+14,Glenbard Twp HSD 87,Glen Ellyn,Dupage,HIGH SCHOOL,Non Chicago School,23.9,66.6
+327,1.90E+14,Glenbard South High School,1.90E+14,Glenbard Twp HSD 87,Glen Ellyn,Dupage,HIGH SCHOOL,Non Chicago School,24.8,69.4
+328,2.04E+13,Goreville High School,2.04E+13,Goreville CUD 1,Goreville,Johnson,HIGH SCHOOL,Non Chicago School,34,50
+329,4.11E+14,Granite City High School,4.11E+14,Granite City CUSD 9,Granite City,Madison,HIGH SCHOOL,Non Chicago School,58.4,36.5
+330,3.40E+14,Grant Community High School,3.40E+14,Grant CHSD 124,Fox Lake,Lake,HIGH SCHOOL,Non Chicago School,35.5,58.6
+331,3.20E+14,Grant Park High School,3.20E+14,Grant Park CUSD 6,Grant Park,Kankakee,HIGH SCHOOL,Non Chicago School,24.2,47.4
+332,3.40E+14,Grayslake Central High School,3.40E+14,Grayslake CHSD 127,Grayslake,Lake,HIGH SCHOOL,Non Chicago School,12.5,71.5
+333,3.40E+14,Grayslake North High School,3.40E+14,Grayslake CHSD 127,Grayslake,Lake,HIGH SCHOOL,Non Chicago School,11,66.8
+334,2.01E+14,Grayville Jr Sr High School,2.01E+14,Grayville CUSD 1,Grayville,White,HIGH SCHOOL,Non Chicago School,42.2,47.5
+335,4.00E+14,Greenfield High School,4.00E+14,Greenfield CUSD 10,Greenfield,Greene,HIGH SCHOOL,Non Chicago School,28.3,58.8
+336,3.81E+14,Greenview Jr/Sr High School,3.81E+14,Greenview CUSD 200,Greenview,Menard,HIGH SCHOOL,Non Chicago School,44.6,57.7
+337,1.08E+13,Griggsville-Perry High School,1.08E+13,Griggsville-Perry CUSD 4,Griggsville,Pike,HIGH SCHOOL,Non Chicago School,41.2,54.5
+338,2.80E+14,Hall High School,2.80E+14,Hall HSD 502,Spring Valley,Bureau,HIGH SCHOOL,Non Chicago School,41.6,49.5
+339,2.60E+14,Hamilton Jr/Sr High Sch,2.60E+14,Hamilton CCSD 328,Hamilton,Hancock,HIGH SCHOOL,Non Chicago School,45.6,48.6
+340,2.50E+14,Hamilton County Jr/Sr High School,2.50E+14,Hamilton Co CUSD 10,Mc Leansboro,Hamilton,HIGH SCHOOL,Non Chicago School,49,47.8
+341,2.00E+14,Hardin County High School,2.00E+14,Hardin County CUSD 1,Elizabethtown,Hardin,HIGH SCHOOL,Non Chicago School,52.5,45.5
+342,4.10E+13,Harlem High School,4.10E+13,Harlem UD 122,Machesney Park,Winnebago,HIGH SCHOOL,Non Chicago School,51.2,53.6
+343,2.01E+14,Harrisburg High School,2.01E+14,Harrisburg CUSD 3,Harrisburg,Saline,HIGH SCHOOL,Non Chicago School,55.3,48.2
+344,3.81E+14,Hartsburg-Emden Jr-Sr High School,3.81E+14,Hartsburg Emden CUSD 21,Hartsburg,Logan,HIGH SCHOOL,Non Chicago School,49.3,56.3
+345,4.41E+14,Harvard High School,4.41E+14,Harvard CUSD 50,Harvard,McHenry,HIGH SCHOOL,Non Chicago School,49.6,38.1
+346,3.81E+14,Havana High School,3.81E+14,Havana CUSD 126,Havana,Mason,HIGH SCHOOL,Non Chicago School,48.7,42.2
+347,4.31E+14,Henry-Senachwine High School,4.31E+14,Henry-Senachwine CUSD 5,Henry,Marshall,HIGH SCHOOL,Non Chicago School,37.7,40.2
+348,9.01E+13,Heritage High School,9.01E+13,Heritage CUSD 8,Broadlands,Champaign,HIGH SCHOOL,Non Chicago School,23.7,50
+349,2.11E+14,Herrin High School,2.11E+14,Herrin CUSD 4,Herrin,Williamson,HIGH SCHOOL,Non Chicago School,55.1,49
+350,3.20E+14,Herscher High School,3.20E+14,Herscher CUSD 2,Herscher,Kankakee,HIGH SCHOOL,Non Chicago School,20.9,60.7
+351,1.71E+14,Heyworth Jr-Sr High School,1.71E+14,Heyworth CUSD 4,Heyworth,McLean,HIGH SCHOOL,Non Chicago School,23.8,47.7
+352,1.60E+14,Hiawatha High School,1.60E+14,Hiawatha CUSD 426,Kirkland,Dekalb,HIGH SCHOOL,Non Chicago School,38,46.4
+353,4.11E+14,Highland High School,4.11E+14,Highland CUSD 5,Highland,Madison,HIGH SCHOOL,Non Chicago School,29,65.2
+354,1.01E+14,Hillsboro High School,1.01E+14,Hillsboro CUSD 3,Hillsboro,Montgomery,HIGH SCHOOL,Non Chicago School,48.6,48.1
+355,1.60E+14,Hinckley-Big Rock High School,1.60E+14,Hinckley Big Rock CUSD 429,Hinckley,Dekalb,HIGH SCHOOL,Non Chicago School,12.8,79.4
+356,1.90E+14,Hinsdale Central High School,1.90E+14,Hinsdale Twp HSD 86,Hinsdale,Dupage,HIGH SCHOOL,Non Chicago School,6.3,88.7
+357,1.90E+14,Hinsdale South High School,1.90E+14,Hinsdale Twp HSD 86,Darien,Dupage,HIGH SCHOOL,Non Chicago School,27.4,70.6
+358,7.02E+13,Homewood-Flossmoor High School,7.02E+13,Homewood Flossmoor CHSD 233,Flossmoor,Cook,HIGH SCHOOL,Non Chicago School,24.9,53.2
+359,4.10E+13,Hononegah High School,4.10E+13,Hononegah CHD 207,Rockton,Winnebago,HIGH SCHOOL,Non Chicago School,18.2,74
+360,5.41E+14,Hoopeston Area High School,5.41E+14,Hoopeston Area CUSD 11,Hoopeston,Vermilion,HIGH SCHOOL,Non Chicago School,60.8,40.4
+361,1.20E+14,Hutsonville High School,1.20E+14,Hutsonville CUSD 1,Hutsonville,Crawford,HIGH SCHOOL,Non Chicago School,36.8,46.4
+362,4.81E+14,Il Valley Central High School,4.81E+14,Il Valley Central USD 321,Chillicothe,Peoria,HIGH SCHOOL,Non Chicago School,23.3,61.9
+363,4.81E+14,Illini Bluffs High School,4.81E+14,Illini Bluffs CUSD 327,Glasford,Peoria,HIGH SCHOOL,Non Chicago School,25.7,60.5
+364,3.81E+14,Illini Central High School,3.81E+14,Illini Central CUSD 189,Mason City,Mason,HIGH SCHOOL,Non Chicago School,49.8,42.3
+365,2.60E+14,Illini West High School,2.60E+14,Illini West H S Dist 307,Carthage,Hancock,HIGH SCHOOL,Non Chicago School,46.8,55.2
+366,1.60E+14,Indian Creek High School,1.60E+14,Indian Creek CUSD 425,Shabbona,Dekalb,HIGH SCHOOL,Non Chicago School,25.4,73.1
+367,1.90E+14,Waubonsie Valley High School,1.90E+14,Indian Prairie CUSD 204,Aurora,Dupage,HIGH SCHOOL,Non Chicago School,23.6,71.4
+368,1.90E+14,Neuqua Valley High School,1.90E+14,Indian Prairie CUSD 204,Naperville,Dupage,HIGH SCHOOL,Non Chicago School,9.4,87.2
+369,1.90E+14,Metea Valley High School,1.90E+14,Indian Prairie CUSD 204,Aurora,Dupage,HIGH SCHOOL,Non Chicago School,24,76.2
+370,3.20E+14,Watseka Comm High School,3.20E+14,Iroquois County CUSD 9,Watseka,Iroquois,HIGH SCHOOL,Non Chicago School,56.3,43.8
+371,3.20E+14,Iroquois West High School,3.20E+14,Iroquois West CUSD 10,Gilman,Iroquois,HIGH SCHOOL,Non Chicago School,46.3,46.5
+372,6.02E+13,J Sterling Morton East High Sch,6.02E+13,J S Morton HSD 201,Cicero,Cook,HIGH SCHOOL,Non Chicago School,93.4,23.4
+373,6.02E+13,J Sterling Morton West High Sch,6.02E+13,J S Morton HSD 201,Berwyn,Cook,HIGH SCHOOL,Non Chicago School,81,32.9
+374,4.61E+14,Jacksonville High School,4.61E+14,Jacksonville SD 117,Jacksonville,Morgan,HIGH SCHOOL,Non Chicago School,50.6,44.8
+375,5.41E+14,Jamaica High School,5.41E+14,Jamaica CUSD 12,Sidell,Vermilion,HIGH SCHOOL,Non Chicago School,42.7,57.9
+376,1.20E+14,Newton Comm High School,1.20E+14,Jasper County CUD 1,Newton,Jasper,HIGH SCHOOL,Non Chicago School,37.1,61.3
+377,4.00E+14,Jersey Comm High School,4.00E+14,Jersey CUSD 100,Jerseyville,Jersey,HIGH SCHOOL,Non Chicago School,33.4,51
+378,4.41E+14,Johnsburg High School,4.41E+14,Johnsburg CUSD 12,Johnsburg,McHenry,HIGH SCHOOL,Non Chicago School,17.2,60.7
+379,2.11E+14,Johnston City High School,2.11E+14,Johnston City CUSD 1,Johnston City,Williamson,HIGH SCHOOL,Non Chicago School,52.9,38.8
+380,5.61E+14,Joliet Central High School,5.61E+14,Joliet Twp HSD 204,Joliet,Will,HIGH SCHOOL,Non Chicago School,74.7,31.6
+381,5.61E+14,Joliet West High School,5.61E+14,Joliet Twp HSD 204,Joliet,Will,HIGH SCHOOL,Non Chicago School,51.9,48.2
+382,2.06E+13,Joppa Jr & Sr High School,2.06E+13,Joppa-Maple Grove UD 38,Joppa,Massac,HIGH SCHOOL,Non Chicago School,63.3,34.6
+383,3.10E+14,Kaneland Senior High School,3.10E+14,Kaneland CUSD 302,Maple Park,Kane,HIGH SCHOOL,Non Chicago School,17.8,62.5
+384,3.20E+14,Kankakee High School,3.20E+14,Kankakee SD 111,Kankakee,Kankakee,HIGH SCHOOL,Non Chicago School,81.6,33.6
+385,1.10E+14,Kansas High School,1.10E+14,Kansas CUSD 3,Kansas,Edgar,HIGH SCHOOL,Non Chicago School,38.2,60
+386,2.80E+14,Kewanee High School,2.80E+14,Kewanee CUSD 229,Kewanee,Henry,HIGH SCHOOL,Non Chicago School,67.8,52.7
+387,3.30E+14,Knoxville Sr High School,3.30E+14,Knoxville CUSD 202,Knoxville,Knox,HIGH SCHOOL,Non Chicago School,38,54
+388,2.80E+14,La Moille High School,2.80E+14,La Moille CUSD 303,La Moille,Bureau,HIGH SCHOOL,Non Chicago School,40,36.2
+389,3.51E+14,La Salle-Peru Twp High School,3.51E+14,La Salle-Peru Twp HSD 120,La Salle,La Salle,HIGH SCHOOL,Non Chicago School,41.1,53.1
+390,3.40E+14,Lake Forest High School,3.40E+14,Lake Forest CHSD 115,Lake Forest,Lake,HIGH SCHOOL,Non Chicago School,3.5,85.7
+391,1.90E+14,Lake Park High School,1.90E+14,Lake Park CHSD 108,Roselle,Dupage,HIGH SCHOOL,Non Chicago School,16.6,71.2
+392,3.40E+14,Lake Zurich High School,3.40E+14,Lake Zurich CUSD 95,Lake Zurich,Lake,HIGH SCHOOL,Non Chicago School,10.4,79.8
+393,1.21E+14,Lawrenceville High School,1.21E+14,Lawrence County CUD 20,Lawrenceville,Lawrence,HIGH SCHOOL,Non Chicago School,43.5,42.9
+394,5.01E+14,Lebanon High School,5.01E+14,Lebanon CUSD 9,Lebanon,Saint Clair,HIGH SCHOOL,Non Chicago School,37.8,52.2
+395,3.51E+14,Leland High School,3.51E+14,Leland CUSD 1,Leland,La Salle,HIGH SCHOOL,Non Chicago School,39,43.3
+396,7.02E+13,Lemont Twp High School,7.02E+13,Lemont Twp HSD 210,Lemont,Cook,HIGH SCHOOL,Non Chicago School,8.6,71.8
+397,8.09E+13,Lena-Winslow High School,8.09E+13,Lena Winslow CUSD 202,Lena,Stephenson,HIGH SCHOOL,Non Chicago School,32.8,58.7
+398,1.71E+14,LeRoy High School,1.71E+14,LeRoy CUSD 2,Le Roy,McLean,HIGH SCHOOL,Non Chicago School,20.4,63
+399,2.20E+14,Lewistown High School,2.20E+14,Lewistown CUSD 97,Lewistown,Fulton,HIGH SCHOOL,Non Chicago School,36.2,50.9
+400,1.71E+14,Lexington High School,1.71E+14,Lexington CUSD 7,Lexington,McLean,HIGH SCHOOL,Non Chicago School,21.6,75
+401,6.02E+13,East Leyden High School,6.02E+13,Leyden CHSD 212,Franklin Park,Cook,HIGH SCHOOL,Non Chicago School,7.4,55.1
+402,6.02E+13,West Leyden High School,6.02E+13,Leyden CHSD 212,Northlake,Cook,HIGH SCHOOL,Non Chicago School,12.9,43
+403,1.00E+13,Liberty High School,1.00E+13,Liberty CUSD 2,Liberty,Adams,HIGH SCHOOL,Non Chicago School,30.3,57.3
+404,4.81E+14,Limestone Community High School,4.81E+14,Limestone CHSD 310,Peoria,Peoria,HIGH SCHOOL,Non Chicago School,44.6,46.3
+405,3.81E+14,Lincoln Comm High School,3.81E+14,Lincoln CHSD 404,Lincoln,Logan,HIGH SCHOOL,Non Chicago School,38.9,61.5
+406,5.61E+14,Lincoln-Way Central High School,5.61E+14,Lincoln Way CHSD 210,New Lenox,Will,HIGH SCHOOL,Non Chicago School,10.6,69.1
+407,5.61E+14,Lincoln-Way East High School,5.61E+14,Lincoln Way CHSD 210,Frankfort,Will,HIGH SCHOOL,Non Chicago School,8.5,73.5
+408,5.61E+14,Lincoln-Way North High School,5.61E+14,Lincoln Way CHSD 210,Frankfort,Will,HIGH SCHOOL,Non Chicago School,9.8,67.7
+409,5.61E+14,Lincoln Way West,5.61E+14,Lincoln Way CHSD 210,New Lenox,Will,HIGH SCHOOL,Non Chicago School,11.8,70.3
+410,1.90E+14,Lisle High School,1.90E+14,Lisle CUSD 202,Lisle,Dupage,HIGH SCHOOL,Non Chicago School,27.4,69.8
+411,1.01E+14,Litchfield Senior High School,1.01E+14,Litchfield CUSD 12,Litchfield,Montgomery,HIGH SCHOOL,Non Chicago School,46.5,45.7
+412,5.61E+14,Lockport Township High Sch East,5.61E+14,Lockport Twp HSD 205,Lockport,Will,HIGH SCHOOL,Non Chicago School,16.3,67.7
+413,4.31E+14,Lowpoint-Washburn Jr Sr High Sch,4.31E+14,Lowpoint-Washburn CUSD 21,Washburn,Woodford,HIGH SCHOOL,Non Chicago School,43.9,60
+414,6.02E+13,Lyons Twp High Sch,6.02E+13,Lyons Twp HSD 204,La Grange,Cook,HIGH SCHOOL,Non Chicago School,14.2,78.7
+415,2.61E+14,Macomb Senior High School,2.61E+14,Macomb CUSD 185,Macomb,McDonough,HIGH SCHOOL,Non Chicago School,38.6,63.6
+416,4.11E+14,Madison Senior High School,4.11E+14,Madison CUSD 12,Madison,Madison,HIGH SCHOOL,Non Chicago School,98.8,33.8
+417,9.01E+13,Mahomet-Seymour High School,9.01E+13,Mahomet-Seymour CUSD 3,Mahomet,Champaign,HIGH SCHOOL,Non Chicago School,19.6,76.8
+418,5.02E+13,Maine East High School,5.02E+13,Maine Township HSD 207,Park Ridge,Cook,HIGH SCHOOL,Non Chicago School,46.6,59.3
+419,5.02E+13,Maine South High School,5.02E+13,Maine Township HSD 207,Park Ridge,Cook,HIGH SCHOOL,Non Chicago School,8.3,78.6
+420,5.02E+13,Maine West High School,5.02E+13,Maine Township HSD 207,Des Plaines,Cook,HIGH SCHOOL,Non Chicago School,38.1,58.2
+421,3.20E+14,Manteno High School,3.20E+14,Manteno CUSD 5,Manteno,Kankakee,HIGH SCHOOL,Non Chicago School,34.6,58.9
+422,4.41E+14,Marengo High School,4.41E+14,Marengo CHSD 154,Marengo,McHenry,HIGH SCHOOL,Non Chicago School,36.3,59.5
+423,2.11E+14,Marion High School,2.11E+14,Marion CUSD 2,Marion,Williamson,HIGH SCHOOL,Non Chicago School,41.4,54.1
+424,5.01E+14,Marissa Jr & Sr High School,5.01E+14,Marissa CUSD 40,Marissa,Saint Clair,HIGH SCHOOL,Non Chicago School,62.3,59.3
+425,3.91E+14,Maroa-Forsyth Senior High Sch,3.91E+14,Maroa Forsyth CUSD 2,Maroa,Macon,HIGH SCHOOL,Non Chicago School,12.3,66.2
+426,11012002C260001,Marshall High School,11012002C260000,Marshall CUSD 2C,Marshall,Clark,HIGH SCHOOL,Non Chicago School,30.6,56.4
+427,11012003C260001,Martinsville Jr- Sr High School,11012003C260000,Martinsville CUSD 3C,Martinsville,Clark,HIGH SCHOOL,Non Chicago School,52.7,61.1
+428,5.01E+14,Mascoutah High School,5.01E+14,Mascoutah CUD 19,Mascoutah,Saint Clair,HIGH SCHOOL,Non Chicago School,16.9,67.5
+429,2.06E+13,Massac County High School,2.06E+13,Massac UD 1,Metropolis,Massac,HIGH SCHOOL,Non Chicago School,50.8,52.9
+430,1.10E+14,Mattoon High School,1.10E+14,Mattoon CUSD 2,Mattoon,Coles,HIGH SCHOOL,Non Chicago School,47.6,56.5
+431,4.41E+14,McHenry High School-West Campus,4.41E+14,McHenry CHSD 156,McHenry,McHenry,HIGH SCHOOL,Non Chicago School,32.9,55.8
+432,4.41E+14,McHenryEast High School,4.41E+14,McHenry CHSD 156,McHenry,McHenry,HIGH SCHOOL,Non Chicago School,34.2,53.9
+433,1.71E+14,Normal Community High School,1.71E+14,McLean County USD 5,Normal,McLean,HIGH SCHOOL,Non Chicago School,23.7,72.9
+434,1.71E+14,Normal Community West High School,1.71E+14,McLean County USD 5,Normal,McLean,HIGH SCHOOL,Non Chicago School,28.8,65.6
+435,17064005026001C,YBMC Charter Sch*,1.71E+14,McLean County USD 5,Normal,McLean,CHARTER SCH,Non Chicago School,62.5,11.9
+436,3.51E+14,Mendota Twp High School,3.51E+14,Mendota Twp HSD 280,Mendota,La Salle,HIGH SCHOOL,Non Chicago School,44.5,57.3
+437,2.71E+14,Mercer County High School,2.71E+14,Mercer County School District 404,Aledo,Mercer,HIGH SCHOOL,Non Chicago School,43.7,52
+438,4.61E+14,Meredosia-Chambersburg High Sch,4.61E+14,Meredosia-Chambersburg CUSD 11,Meredosia,Morgan,HIGH SCHOOL,Non Chicago School,39.1,50
+439,2.08E+13,Meridian High School,2.08E+13,Meridian CUSD 101,Mounds,Pulaski,HIGH SCHOOL,Non Chicago School,100,17.9
+440,3.91E+14,Meridian High School,3.91E+14,Meridian CUSD 15,Macon,Macon,HIGH SCHOOL,Non Chicago School,35.1,47.8
+441,4.71E+14,Stillman Valley High School,4.71E+14,Meridian CUSD 223,Stillman Valley,Ogle,HIGH SCHOOL,Non Chicago School,25.4,58.3
+442,4.31E+14,Midland High School,4.31E+14,Midland CUSD 7,Varna,Marshall,HIGH SCHOOL,Non Chicago School,33.2,55.7
+443,3.81E+14,Midwest Central High School,3.81E+14,Midwest Central CUSD 191,Manito,Mason,HIGH SCHOOL,Non Chicago School,34.9,37.2
+444,3.20E+14,Milford High School,3.20E+14,Milford Twp HSD 233,Milford,Iroquois,HIGH SCHOOL,Non Chicago School,52.5,51.4
+445,2.40E+14,Minooka Community High School,2.40E+14,Minooka CHSD 111,Minooka,Grundy,HIGH SCHOOL,Non Chicago School,5.8,69.2
+446,4.91E+14,Moline Sr High School,4.91E+14,Moline USD 40,Moline,Rock Island,HIGH SCHOOL,Non Chicago School,41.4,54.8
+447,3.20E+14,Momence High School,3.20E+14,Momence CUSD 1,Momence,Kankakee,HIGH SCHOOL,Non Chicago School,61.5,40.5
+448,2.71E+14,Monmouth-Roseville High Sch,2.71E+14,Monmouth-Roseville CUSD 238,Monmouth,Warren,HIGH SCHOOL,Non Chicago School,58,52.6
+449,3.91E+14,Monticello High School,3.91E+14,Monticello CUSD 25,Monticello,Piatt,HIGH SCHOOL,Non Chicago School,13.3,67.2
+450,2.40E+14,Morris Community High School,2.40E+14,Morris CHSD 101,Morris,Grundy,HIGH SCHOOL,Non Chicago School,23.3,60.3
+451,5.51E+14,Morrison High School,5.51E+14,Morrison CUSD 6,Morrison,Whiteside,HIGH SCHOOL,Non Chicago School,33.8,67.9
+452,1.00E+14,Morrisonville High School,1.00E+14,Morrisonville CUSD 1,Morrisonville,Christian,HIGH SCHOOL,Non Chicago School,28.3,46.2
+453,5.31E+14,Morton High School,5.31E+14,Morton CUSD 709,Morton,Tazewell,HIGH SCHOOL,Non Chicago School,13.5,76
+454,4.01E+14,Mt Olive High School,4.01E+14,Mount Olive CUSD 5,Mount Olive,Macoupin,HIGH SCHOOL,Non Chicago School,40.4,57.1
+455,3.81E+14,Mount Pulaski High School,3.81E+14,Mt Pulaski CUSD 23,Mount Pulaski,Logan,HIGH SCHOOL,Non Chicago School,34.9,61.9
+456,2.50E+14,Mount Vernon High School,2.50E+14,Mt Vernon Twp HSD 201,Mount Vernon,Jefferson,HIGH SCHOOL,Non Chicago School,55.2,46.4
+457,3.91E+14,Mt Zion High School,3.91E+14,Mt Zion CUSD 3,Mount Zion,Macon,HIGH SCHOOL,Non Chicago School,15.5,72.9
+458,3.00E+13,Mulberry Grove Sr High School,3.00E+13,Mulberry Grove CUSD 1,Mulberry Grove,Bond,HIGH SCHOOL,Non Chicago School,47,40
+459,3.40E+14,Mundelein Cons High School,3.40E+14,Mundelein Cons HSD 120,Mundelein,Lake,HIGH SCHOOL,Non Chicago School,39,56.4
+460,3.00E+14,Murphysboro High School,3.00E+14,Murphysboro CUSD 186,Murphysboro,Jackson,HIGH SCHOOL,Non Chicago School,99.3,44.1
+461,1.90E+14,Naperville Central High School,1.90E+14,Naperville CUSD 203,Naperville,Dupage,HIGH SCHOOL,Non Chicago School,10,80.3
+462,1.90E+14,Naperville North High School,1.90E+14,Naperville CUSD 203,Naperville,Dupage,HIGH SCHOOL,Non Chicago School,15.2,80
+463,1.31E+14,Nashville Comm High School,1.31E+14,Nashville CHSD 99,Nashville,Washington,HIGH SCHOOL,Non Chicago School,27,63.7
+464,1.10E+14,Neoga Sr High School,1.10E+14,Neoga CUSD 3,Neoga,Cumberland,HIGH SCHOOL,Non Chicago School,28.4,61.1
+465,5.01E+14,New Athens High School,5.01E+14,New Athens CUSD 60,New Athens,Saint Clair,HIGH SCHOOL,Non Chicago School,21,52.3
+466,5.11E+14,New Berlin High School,5.11E+14,New Berlin CUSD 16,New Berlin,Sangamon,HIGH SCHOOL,Non Chicago School,27.7,60.9
+467,5.02E+13,New Trier Township H S Winnetka,5.02E+13,New Trier Twp HSD 203,Winnetka,Cook,HIGH SCHOOL,Non Chicago School,3.5,92.3
+468,2.40E+14,Newark Comm High School,2.40E+14,Newark CHSD 18,Newark,Kendall,HIGH SCHOOL,Non Chicago School,15.1,71.7
+469,5.02E+13,Niles North High School,5.02E+13,Niles Twp CHSD 219,Skokie,Cook,HIGH SCHOOL,Non Chicago School,39,62.4
+470,5.02E+13,Niles West High School,5.02E+13,Niles Twp CHSD 219,Skokie,Cook,HIGH SCHOOL,Non Chicago School,36.5,64.5
+471,1.01E+14,Nokomis Jr/Sr High Sch,1.01E+14,Nokomis CUSD 22,Nokomis,Montgomery,HIGH SCHOOL,Non Chicago School,40.3,54.9
+472,2.01E+14,Norris City-Omaha-Enfield H S,2.01E+14,Norris City-Omaha-Enfield CUSD 3,Norris City,White,HIGH SCHOOL,Non Chicago School,47.3,46.9
+473,4.00E+13,North Boone High School,4.00E+13,North Boone CUSD 200,Poplar Grove,Boone,HIGH SCHOOL,Non Chicago School,44.3,49.1
+474,3.40E+14,North Chicago Community High Sch,3.40E+14,North Chicago SD 187,North Chicago,Lake,HIGH SCHOOL,Non Chicago School,83.8,16.8
+475,1.20E+14,North Clay Community High School,1.20E+14,North Clay CUSD 25,Louisville,Clay,HIGH SCHOOL,Non Chicago School,42.8,57.4
+476,4.00E+14,North Greene Jr/Sr High Sch,4.00E+14,North Greene CUSD 3,White Hall,Greene,HIGH SCHOOL,Non Chicago School,65.5,32
+477,4.01E+14,North Mac High School,4.01E+14,North Mac CUSD 34,Virden,Macoupin,HIGH SCHOOL,Non Chicago School,39.9,57.8
+478,2.01E+14,Cisne High School,2.01E+14,North Wayne CUSD 200,Cisne,Wayne,HIGH SCHOOL,Non Chicago School,43,55.7
+479,5.02E+13,Glenbrook North High School,5.02E+13,Northfield Twp HSD 225,Northbrook,Cook,HIGH SCHOOL,Non Chicago School,17.2,88
+480,5.02E+13,Glenbrook South High School,5.02E+13,Northfield Twp HSD 225,Glenview,Cook,HIGH SCHOOL,Non Chicago School,28.3,82.7
+481,4.01E+14,Northwestern High School,4.01E+14,Northwestern CUSD 2,Palmyra,Macoupin,HIGH SCHOOL,Non Chicago School,51.8,52.8
+482,5.01E+14,O Fallon High School,5.01E+14,O Fallon Twp HSD 203,O Fallon,Saint Clair,HIGH SCHOOL,Non Chicago School,20.9,72.1
+483,7.02E+13,Oak Lawn Comm High School,7.02E+13,Oak Lawn CHSD 229,Oak Lawn,Cook,HIGH SCHOOL,Non Chicago School,38,47.2
+484,6.02E+13,Oak Park & River Forest High Sch,6.02E+13,Oak Park - River Forest SD 200,Oak Park,Cook,HIGH SCHOOL,Non Chicago School,20.8,72.7
+485,1.10E+14,Oakland High School,1.10E+14,Oakland CUSD 5,Oakland,Coles,HIGH SCHOOL,Non Chicago School,51.8,60.3
+486,5.41E+14,Oakwood High School,5.41E+14,Oakwood CUSD 76,Fithian,Vermilion,HIGH SCHOOL,Non Chicago School,36.9,57.4
+487,1.20E+14,Oblong High School,1.20E+14,Oblong CUSD 4,Oblong,Crawford,HIGH SCHOOL,Non Chicago School,35.1,52.5
+488,1.31E+14,Odin Attendance Center 9-12,1.31E+14,Odin PSD 722,Odin,Marion,HIGH SCHOOL,Non Chicago School,63.3,43.2
+489,2.80E+14,Ohio Community High School,2.80E+14,Ohio CHSD 505,Ohio,Bureau,HIGH SCHOOL,Non Chicago School,38.2,60
+490,1.11E+14,Okaw Valley High School,1.11E+14,Okaw Valley CUSD 302,Bethany,Moultrie,HIGH SCHOOL,Non Chicago School,44.4,51.2
+491,1.71E+14,Olympia High School,1.71E+14,Olympia CUSD 16,Stanford,McLean,HIGH SCHOOL,Non Chicago School,35.7,62.9
+492,8.09E+13,Orangeville High School,8.09E+13,Orangeville CUSD 203,Orangeville,Stephenson,HIGH SCHOOL,Non Chicago School,28.1,57.4
+493,4.71E+14,Oregon High School,4.71E+14,Oregon CUSD 220,Oregon,Ogle,HIGH SCHOOL,Non Chicago School,35.3,55.3
+494,2.80E+14,Orion High School,2.80E+14,Orion CUSD 223,Orion,Henry,HIGH SCHOOL,Non Chicago School,19.3,73.9
+495,2.40E+14,Oswego High School,2.40E+14,Oswego CUSD 308,Oswego,Kendall,HIGH SCHOOL,Non Chicago School,25.9,55.2
+496,2.40E+14,Oswego East High School,2.40E+14,Oswego CUSD 308,Oswego,Kendall,HIGH SCHOOL,Non Chicago School,28.4,58.4
+497,3.51E+14,Ottawa Township High School,3.51E+14,Ottawa Twp HSD 140,Ottawa,La Salle,HIGH SCHOOL,Non Chicago School,31.8,57
+498,1.20E+14,Palestine High School,1.20E+14,Palestine CUSD 3,Palestine,Crawford,HIGH SCHOOL,Non Chicago School,34.6,58.3
+499,1.00E+14,Pana Sr High School,1.00E+14,Pana CUSD 8,Pana,Christian,HIGH SCHOOL,Non Chicago School,49,43.8
+500,1.01E+14,Lincolnwood High School,1.01E+14,Panhandle CUSD 2,Raymond,Montgomery,HIGH SCHOOL,Non Chicago School,33.3,75
+501,1.10E+14,Paris Cooperative High School 4,1.10E+14,Paris CUSD 4,Paris,Edgar,HIGH SCHOOL,Non Chicago School,27,72.6
+502,1.10E+14,Paris Cooperative High School 95,1.10E+14,Paris-Union SD 95,Paris,Edgar,HIGH SCHOOL,Non Chicago School,61.1,40.7
+503,1.31E+14,Patoka Sr High School,1.31E+14,Patoka CUSD 100,Patoka,Marion,HIGH SCHOOL,Non Chicago School,65.8,46.2
+504,4.71E+14,Paw Paw Jr/Sr High School,4.71E+14,Paw Paw CUSD 271,Paw Paw,Lee,HIGH SCHOOL,Non Chicago School,33,54.8
+505,5.11E+14,Pawnee Jr/Sr High Sch,5.11E+14,Pawnee CUSD 11,Pawnee,Sangamon,HIGH SCHOOL,Non Chicago School,26.7,51.8
+506,9.03E+13,Paxton-Buckley-Loda High School,9.03E+13,Paxton-Buckley-Loda CUD 10,Paxton,Ford,HIGH SCHOOL,Non Chicago School,27.8,61.4
+507,1.00E+13,Seymour High School,1.00E+13,Payson CUSD 1,Payson,Adams,HIGH SCHOOL,Non Chicago School,43.5,50
+508,8.09E+13,Pearl City High School,8.09E+13,Pearl City CUSD 200,Pearl City,Stephenson,HIGH SCHOOL,Non Chicago School,18.8,64.2
+509,4.10E+13,Pecatonica High School,4.10E+13,Pecatonica CUSD 321,Pecatonica,Winnebago,HIGH SCHOOL,Non Chicago School,20.9,66.1
+510,5.31E+14,Pekin Community High School,5.31E+14,Pekin CSD 303,Pekin,Tazewell,HIGH SCHOOL,Non Chicago School,42.5,55.1
+511,4.81E+14,Peoria Heights High School,4.81E+14,Peoria Heights CUSD 325,Peoria Heights,Peoria,HIGH SCHOOL,Non Chicago School,42.3,44.7
+512,4.81E+14,Manual Academy,4.81E+14,Peoria SD 150,Peoria,Peoria,HIGH SCHOOL,Non Chicago School,77.4,15.6
+513,4.81E+14,Peoria High School,4.81E+14,Peoria SD 150,Peoria,Peoria,HIGH SCHOOL,Non Chicago School,70.2,20.3
+514,4.81E+14,Richwoods High School,4.81E+14,Peoria SD 150,Peoria,Peoria,HIGH SCHOOL,Non Chicago School,42,52
+515,56099207U260001,Peotone High School,56099207U260000,Peotone CUSD 207U,Peotone,Will,HIGH SCHOOL,Non Chicago School,15.8,56.4
+516,1.08E+13,Pittsfield High School,1.08E+13,Pikeland CUSD 10,Pittsfield,Pike,HIGH SCHOOL,Non Chicago School,45.1,52
+517,3.01E+14,Pinckneyville Comm High School,3.01E+14,Pinckneyville CHSD 101,Pinckneyville,Perry,HIGH SCHOOL,Non Chicago School,39.1,50
+518,5.61E+14,Plainfield High School,5.61E+14,Plainfield SD 202,Plainfield,Will,HIGH SCHOOL,Non Chicago School,25.6,56
+519,5.61E+14,Plainfield South High School,5.61E+14,Plainfield SD 202,Plainfield,Will,HIGH SCHOOL,Non Chicago School,25.3,56
+520,5.61E+14,Plainfield North High School,5.61E+14,Plainfield SD 202,Plainfield,Will,HIGH SCHOOL,Non Chicago School,11.5,69.3
+521,5.61E+14,Plainfield East High School,5.61E+14,Plainfield SD 202,Plainfield,Will,HIGH SCHOOL,Non Chicago School,25.3,59.2
+522,2.40E+14,Plano High School,2.40E+14,Plano CUSD 88,Plano,Kendall,HIGH SCHOOL,Non Chicago School,53.9,39.3
+523,1.08E+13,Pleasant Hill High School,1.08E+13,Pleasant Hill CUSD 3,Pleasant Hill,Pike,HIGH SCHOOL,Non Chicago School,43.2,32.6
+524,5.11E+14,Pleasant Plains High School,5.11E+14,Pleasant Plains CUSD 8,Pleasant Plains,Sangamon,HIGH SCHOOL,Non Chicago School,8.6,53.5
+525,4.71E+14,Polo Comm High School,4.71E+14,Polo CUSD 222,Polo,Ogle,HIGH SCHOOL,Non Chicago School,38.7,50.9
+526,1.71E+14,Pontiac High School,1.71E+14,Pontiac Twp HSD 90,Pontiac,Livingston,HIGH SCHOOL,Non Chicago School,33.3,55.2
+527,2.01E+14,Pope Co High School,2.01E+14,Pope Co CUD 1,Golconda,Pope,HIGH SCHOOL,Non Chicago School,53.7,38.8
+528,3.81E+14,Porta High School,3.81E+14,Porta CUSD 202,Petersburg,Menard,HIGH SCHOOL,Non Chicago School,30.3,59.6
+529,1.71E+14,Prairie Central High School,1.71E+14,Prairie Central CUSD 8,Fairbury,Livingston,HIGH SCHOOL,Non Chicago School,39,63.3
+530,2.80E+14,Princeton High School,2.80E+14,Princeton HSD 500,Princeton,Bureau,HIGH SCHOOL,Non Chicago School,32,57.9
+531,4.81E+14,Princeville High School,4.81E+14,Princeville CUSD 326,Princeville,Peoria,HIGH SCHOOL,Non Chicago School,20.5,77.7
+532,5.51E+14,Prophetstown High School,5.51E+14,Prophetstown-Lyndon-Tampico CUSD3,Prophetstown,Whiteside,HIGH SCHOOL,Non Chicago School,46.9,54.7
+533,6.02E+13,Proviso East High School,6.02E+13,Proviso Twp HSD 209,Maywood,Cook,HIGH SCHOOL,Non Chicago School,65.3,20.6
+534,6.02E+13,Proviso West High School,6.02E+13,Proviso Twp HSD 209,Hillside,Cook,HIGH SCHOOL,Non Chicago School,50.7,30.1
+535,6.02E+13,Proviso Math and Science Academy,6.02E+13,Proviso Twp HSD 209,Forest Park,Cook,HIGH SCHOOL,Non Chicago School,46.3,80.8
+536,4.31E+14,Putnam County High School,4.31E+14,Putnam County CUSD 535,Granville,Putnam,HIGH SCHOOL,Non Chicago School,33.6,50.7
+537,1.00E+13,Quincy Sr High School,1.00E+13,Quincy SD 172,Quincy,Adams,HIGH SCHOOL,Non Chicago School,45.5,50.4
+538,3.30E+14,R O W V A Sr High School,3.30E+14,R O W V A CUSD 208,Oneida,Knox,HIGH SCHOOL,Non Chicago School,35.1,71.7
+539,3.03E+13,Ramsey High School,3.03E+13,Ramsey CUSD 204,Ramsey,Fayette,HIGH SCHOOL,Non Chicago School,59.2,38.2
+540,9.01E+13,Rantoul Twp High School,9.01E+13,Rantoul Township HSD 193,Rantoul,Champaign,HIGH SCHOOL,Non Chicago School,60.7,40.5
+541,7.02E+13,Reavis High School,7.02E+13,Reavis Twp HSD 220,Burbank,Cook,HIGH SCHOOL,Non Chicago School,47.8,42.3
+542,4.51E+14,Red Bud High School,4.51E+14,Red Bud CUSD 132,Red Bud,Randolph,HIGH SCHOOL,Non Chicago School,29.1,63.6
+543,1.21E+14,Red Hill Jr/Sr High School,1.21E+14,Red Hill CUSD 10,Bridgeport,Lawrence,HIGH SCHOOL,Non Chicago School,48.7,57.9
+544,56099255U260001,Reed-Custer High School,56099255U260000,Reed Custer CUSD 255U,Braidwood,Will,HIGH SCHOOL,Non Chicago School,38.7,56.7
+545,7.02E+13,Rich East Campus High School,7.02E+13,Rich Twp HSD 227,Park Forest,Cook,HIGH SCHOOL,Non Chicago School,83.1,35.2
+546,7.02E+13,Rich Central Campus High School,7.02E+13,Rich Twp HSD 227,Olympia Fields,Cook,HIGH SCHOOL,Non Chicago School,72.2,28.5
+547,7.02E+13,Rich South Campus High School,7.02E+13,Rich Twp HSD 227,Richton Park,Cook,HIGH SCHOOL,Non Chicago School,78.2,28.7
+548,4.41E+14,Richmond-Burton High School,4.41E+14,Richmond-Burton CHSD 157,Richmond,McHenry,HIGH SCHOOL,Non Chicago School,12,70.8
+549,1.71E+14,Ridgeview High School,1.71E+14,Ridgeview CUSD 19,Colfax,McLean,HIGH SCHOOL,Non Chicago School,39.5,39.7
+550,6.02E+13,Ridgewood Comm High School,6.02E+13,Ridgewood CHSD 234,Norridge,Cook,HIGH SCHOOL,Non Chicago School,22.4,54.5
+551,5.51E+14,Fulton High School,5.51E+14,River Bend CUSD 2,Fulton,Whiteside,HIGH SCHOOL,Non Chicago School,30.9,56.7
+552,8.04E+13,River Ridge High School,8.04E+13,River Ridge CUSD 210,Hanover,Jo Daviess,HIGH SCHOOL,Non Chicago School,38.9,74.3
+553,4.91E+14,Riverdale Sr High School,4.91E+14,Riverdale CUSD 100,Port Byron,Rock Island,HIGH SCHOOL,Non Chicago School,25.6,56.3
+554,6.02E+13,Riverside Brookfield Twp HS,6.02E+13,Riverside-Brookfield Twp SD 208,Riverside,Cook,HIGH SCHOOL,Non Chicago School,17.5,77.7
+555,5.11E+14,Riverton High School,5.11E+14,Riverton CUSD 14,Riverton,Sangamon,HIGH SCHOOL,Non Chicago School,38.3,53.9
+556,4.31E+14,Roanoke-Benson High School,4.31E+14,Roanoke Benson CUSD 60,Roanoke,Woodford,HIGH SCHOOL,Non Chicago School,21.3,59.4
+557,1.20E+14,Robinson High School,1.20E+14,Robinson CUSD 2,Robinson,Crawford,HIGH SCHOOL,Non Chicago School,39.3,55.9
+558,4.71E+14,Rochelle Twp High School,4.71E+14,Rochelle Twp HSD 212,Rochelle,Ogle,HIGH SCHOOL,Non Chicago School,30.9,51.1
+559,51084003A260001,Rochester High School,51084003A260000,Rochester CUSD 3A,Rochester,Sangamon,HIGH SCHOOL,Non Chicago School,13,72
+560,5.51E+14,Rock Falls Township High School,5.51E+14,Rock Falls Twp HSD 301,Rock Falls,Whiteside,HIGH SCHOOL,Non Chicago School,55.7,51.4
+561,4.91E+14,Rock Island High School,4.91E+14,Rock Island SD 41,Rock Island,Rock Island,HIGH SCHOOL,Non Chicago School,60.4,35.6
+562,4.10E+13,Auburn High School,4.10E+13,Rockford SD 205,Rockford,Winnebago,HIGH SCHOOL,Non Chicago School,74.6,48
+563,4.10E+13,Rockford East High School,4.10E+13,Rockford SD 205,Rockford,Winnebago,HIGH SCHOOL,Non Chicago School,74.1,34.5
+564,4.10E+13,Guilford High School,4.10E+13,Rockford SD 205,Rockford,Winnebago,HIGH SCHOOL,Non Chicago School,70.1,39.6
+565,4.10E+13,Jefferson High School,4.10E+13,Rockford SD 205,Rockford,Winnebago,HIGH SCHOOL,Non Chicago School,81.4,32.2
+566,4.91E+14,Rockridge High School,4.91E+14,Rockridge CUSD 300,Taylor Ridge,Rock Island,HIGH SCHOOL,Non Chicago School,18.3,62
+567,3.40E+14,Round Lake Senior High School,3.40E+14,Round Lake CUSD 116,Round Lake,Lake,HIGH SCHOOL,Non Chicago School,71.3,36.4
+568,4.11E+14,Roxana Sr High School,4.11E+14,Roxana CUSD 1,Roxana,Madison,HIGH SCHOOL,Non Chicago School,51.9,42.8
+569,1.31E+14,Salem Community High School,1.31E+14,Salem CHSD 600,Salem,Marion,HIGH SCHOOL,Non Chicago School,44.5,56.1
+570,1.31E+14,Sandoval Sr High School,1.31E+14,Sandoval CUSD 501,Sandoval,Marion,HIGH SCHOOL,Non Chicago School,69.6,36.5
+571,1.60E+14,Sandwich Community High School,1.60E+14,Sandwich CUSD 430,Sandwich,Dekalb,HIGH SCHOOL,Non Chicago School,34,54.8
+572,3.91E+14,Sangamon Valley High School,3.91E+14,Sangamon Valley CUSD 9,Niantic,Macon,HIGH SCHOOL,Non Chicago School,32.4,42.7
+573,8.04E+13,Scales Mound High School,8.04E+13,Scales Mound CUSD 211,Scales Mound,Jo Daviess,HIGH SCHOOL,Non Chicago School,23.4,52.6
+574,2.21E+14,Rushville-Industry High School,2.21E+14,Schuyler-Industry CUSD 5,Rushville,Schuyler,HIGH SCHOOL,Non Chicago School,38.6,50.3
+575,4.61E+14,Bluffs High School,4.61E+14,Scott-Morgan CUSD 2,Bluffs,Scott,HIGH SCHOOL,Non Chicago School,48.7,31.8
+576,3.10E+14,Elgin High School,3.10E+14,SD U-46,Elgin,Kane,HIGH SCHOOL,Non Chicago School,76.8,36.3
+577,3.10E+14,Larkin High School,3.10E+14,SD U-46,Elgin,Kane,HIGH SCHOOL,Non Chicago School,73.8,33.8
+578,3.10E+14,Streamwood High School,3.10E+14,SD U-46,Streamwood,Kane,HIGH SCHOOL,Non Chicago School,63.7,39.6
+579,3.10E+14,Bartlett High School,3.10E+14,SD U-46,Bartlett,Kane,HIGH SCHOOL,Non Chicago School,35.9,63.9
+580,3.10E+14,South Elgin High School,3.10E+14,SD U-46,South Elgin,Kane,HIGH SCHOOL,Non Chicago School,34.8,60.8
+581,3.51E+14,Seneca High School,3.51E+14,Seneca Twp HSD 160,Seneca,La Salle,HIGH SCHOOL,Non Chicago School,28.7,49.6
+582,3.51E+14,Serena High School,3.51E+14,Serena CUSD 2,Serena,La Salle,HIGH SCHOOL,Non Chicago School,39.8,57.9
+583,2.10E+14,Sesser-Valier High School,2.10E+14,Sesser-Valier CUSD 196,Sesser,Franklin,HIGH SCHOOL,Non Chicago School,48.9,46.3
+584,2.09E+13,Shawnee High School,2.09E+13,Shawnee CUSD 84,Wolf Lake,Union,HIGH SCHOOL,Non Chicago School,100,61.1
+585,1.11E+14,Shelbyville High School,1.11E+14,Shelbyville CUSD 4,Shelbyville,Shelby,HIGH SCHOOL,Non Chicago School,26.6,64.4
+586,4.91E+14,Sherrard High School,4.91E+14,Sherrard CUSD 200,Sherrard,Rock Island,HIGH SCHOOL,Non Chicago School,32.2,46.2
+587,1.10E+14,Shiloh High School,1.10E+14,Shiloh CUSD 1,Hume,Edgar,HIGH SCHOOL,Non Chicago School,33,41.7
+588,1.60E+14,Somonauk High School,1.60E+14,Somonauk CUSD 432,Somonauk,Dekalb,HIGH SCHOOL,Non Chicago School,18.1,74.2
+589,1.31E+14,South Central High School,1.31E+14,South Central CUD 401,Farina,Marion,HIGH SCHOOL,Non Chicago School,53,47
+590,1.00E+14,South Fork Jr Sr High School,1.00E+14,South Fork SD 14,Kincaid,Christian,HIGH SCHOOL,Non Chicago School,50.3,37.1
+591,2.60E+14,Southeastern Jr/Sr High School,2.60E+14,Southeastern CUSD 337,Augusta,Hancock,HIGH SCHOOL,Non Chicago School,55,33.8
+592,07016901025001C,Southland College Prep*,7.02E+13,Southland College Prep,Richton Park,Cook,CHARTER SCH,Non Chicago School,51.2,42.9
+593,4.01E+14,Southwestern High School,4.01E+14,Southwestern CUSD 9,Piasa,Macoupin,HIGH SCHOOL,Non Chicago School,34.4,49.2
+594,4.51E+14,Sparta High School,4.51E+14,Sparta CUSD 140,Sparta,Randolph,HIGH SCHOOL,Non Chicago School,55.9,37.8
+595,2.20E+14,Spoon River Valley Sr High Sch,2.20E+14,Spoon River Valley CUSD 4,London Mills,Fulton,HIGH SCHOOL,Non Chicago School,38.7,63.8
+596,5.11E+14,Lanphier High School,5.11E+14,Springfield SD 186,Springfield,Sangamon,HIGH SCHOOL,Non Chicago School,72.8,32.1
+597,5.11E+14,Springfield High School,5.11E+14,Springfield SD 186,Springfield,Sangamon,HIGH SCHOOL,Non Chicago School,38.2,60.8
+598,5.11E+14,Springfield Southeast High Sch,5.11E+14,Springfield SD 186,Springfield,Sangamon,HIGH SCHOOL,Non Chicago School,65.4,37.5
+599,5.11E+14,Springfield Learning Academy,5.11E+14,Springfield SD 186,Springfield,Sangamon,HIGH SCHOOL,Non Chicago School,73.8,13.5
+600,3.20E+14,St Anne Comm High School,3.20E+14,St Anne CHSD 302,Saint Anne,Kankakee,HIGH SCHOOL,Non Chicago School,75.5,29.1
+601,3.10E+14,St Charles East High School,3.10E+14,St Charles CUSD 303,St Charles,Kane,HIGH SCHOOL,Non Chicago School,17.7,77.1
+602,3.10E+14,St Charles North High School,3.10E+14,St Charles CUSD 303,St Charles,Kane,HIGH SCHOOL,Non Chicago School,8.9,79.6
+603,3.03E+13,St Elmo Sr High School,3.03E+13,St Elmo CUSD 202,Saint Elmo,Fayette,HIGH SCHOOL,Non Chicago School,56.6,53
+604,9.01E+13,St Joseph-Ogden High School,9.01E+13,St Joseph Ogden CHSD 305,Saint Joseph,Champaign,HIGH SCHOOL,Non Chicago School,12.8,69.5
+605,2.81E+14,Stark County High School,2.81E+14,Stark County CUSD 100,Toulon,Stark,HIGH SCHOOL,Non Chicago School,41.3,54.2
+606,4.01E+14,Staunton High School,4.01E+14,Staunton CUSD 6,Staunton,Macoupin,HIGH SCHOOL,Non Chicago School,29.8,58.9
+607,4.51E+14,Steeleville High School,4.51E+14,Steeleville CUSD 138,Steeleville,Randolph,HIGH SCHOOL,Non Chicago School,29.5,36
+608,5.51E+14,Sterling High School,5.51E+14,Sterling CUSD 5,Sterling,Whiteside,HIGH SCHOOL,Non Chicago School,48.8,48.3
+609,11087005A260001,Stewardson-Strasburg High School,11087005A260000,Stewardson-Strasburg CUD 5A,Strasburg,Shelby,HIGH SCHOOL,Non Chicago School,34.4,66.7
+610,8.04E+13,Stockton Sr High School,8.04E+13,Stockton CUSD 206,Stockton,Jo Daviess,HIGH SCHOOL,Non Chicago School,34.3,58.6
+611,3.51E+14,Streator Twp High School,3.51E+14,Streator Twp HSD 40,Streator,La Salle,HIGH SCHOOL,Non Chicago School,58.4,37.7
+612,1.11E+14,Sullivan High School,1.11E+14,Sullivan CUSD 300,Sullivan,Moultrie,HIGH SCHOOL,Non Chicago School,34.8,56.5
+613,1.60E+14,Sycamore High School,1.60E+14,Sycamore CUSD 427,Sycamore,Dekalb,HIGH SCHOOL,Non Chicago School,24.2,61.4
+614,1.00E+14,Taylorville Sr High School,1.00E+14,Taylorville CUSD 3,Taylorville,Christian,HIGH SCHOOL,Non Chicago School,45.1,56.3
+615,3.03E+13,Teutopolis High School,3.03E+13,Teutopolis CUSD 50,Teutopolis,Effingham,HIGH SCHOOL,Non Chicago School,12.7,67.2
+616,2.10E+14,Thompsonville High School,2.10E+14,Thompsonville CUSD 174,Thompsonville,Franklin,HIGH SCHOOL,Non Chicago School,50,42.3
+617,7.02E+13,Thornton Fractnl No High School,7.02E+13,Thornton Fractional Twp HSD 215,Calumet City,Cook,HIGH SCHOOL,Non Chicago School,78,29.1
+618,7.02E+13,Thornton Fractnl So High School,7.02E+13,Thornton Fractional Twp HSD 215,Lansing,Cook,HIGH SCHOOL,Non Chicago School,71.2,37.4
+619,7.02E+13,Thornton Township High School,7.02E+13,Thornton Twp HSD 205,Harvey,Cook,HIGH SCHOOL,Non Chicago School,55.8,20.7
+620,7.02E+13,Thornridge High School,7.02E+13,Thornton Twp HSD 205,Dolton,Cook,HIGH SCHOOL,Non Chicago School,59.4,21.7
+621,7.02E+13,Thornwood High School,7.02E+13,Thornton Twp HSD 205,South Holland,Cook,HIGH SCHOOL,Non Chicago School,49.1,23.2
+622,9.01E+13,Unity High School,9.01E+13,Tolono CUSD 7,Tolono,Champaign,HIGH SCHOOL,Non Chicago School,28,66.9
+623,5.02E+13,J B Conant High School,5.02E+13,Township HSD 211,Hoffman Estates,Cook,HIGH SCHOOL,Non Chicago School,21.4,73
+624,5.02E+13,Wm Fremd High School,5.02E+13,Township HSD 211,Palatine,Cook,HIGH SCHOOL,Non Chicago School,12,82.5
+625,5.02E+13,Palatine High School,5.02E+13,Township HSD 211,Palatine,Cook,HIGH SCHOOL,Non Chicago School,45.1,60
+626,5.02E+13,Schaumburg High School,5.02E+13,Township HSD 211,Schaumburg,Cook,HIGH SCHOOL,Non Chicago School,29.7,70.2
+627,5.02E+13,Hoffman Estates High School,5.02E+13,Township HSD 211,Hoffman Estates,Cook,HIGH SCHOOL,Non Chicago School,44.7,58.2
+628,5.02E+13,Elk Grove High School,5.02E+13,Township HSD 214,Elk Grove Village,Cook,HIGH SCHOOL,Non Chicago School,38.7,70.1
+629,5.02E+13,John Hersey High School,5.02E+13,Township HSD 214,Arlington Heights,Cook,HIGH SCHOOL,Non Chicago School,18,81.4
+630,5.02E+13,Prospect High School,5.02E+13,Township HSD 214,Mt Prospect,Cook,HIGH SCHOOL,Non Chicago School,11.9,83.3
+631,5.02E+13,Wheeling High School,5.02E+13,Township HSD 214,Wheeling,Cook,HIGH SCHOOL,Non Chicago School,45.4,56.9
+632,5.02E+13,Rolling Meadows High School,5.02E+13,Township HSD 214,Rolling Meadows,Cook,HIGH SCHOOL,Non Chicago School,32.6,70.6
+633,5.02E+13,Buffalo Grove High School,5.02E+13,Township HSD 214,Buffalo Grove,Cook,HIGH SCHOOL,Non Chicago School,21,70.1
+634,5.31E+14,Tremont High School,5.31E+14,Tremont CUSD 702,Tremont,Tazewell,HIGH SCHOOL,Non Chicago School,13.7,73.6
+635,5.11E+14,Tri-City High School,5.11E+14,Tri City CUSD 1,Buffalo,Sangamon,HIGH SCHOOL,Non Chicago School,36.8,58
+636,17053006J260001,Tri-Point High School,17053006J260000,Tri Point CUSD 6-J,Cullom,Livingston,HIGH SCHOOL,Non Chicago School,53.3,48.3
+637,1.71E+14,Tri-Valley High School,1.71E+14,Tri Valley CUSD 3,Downs,McLean,HIGH SCHOOL,Non Chicago School,9.9,84
+638,4.11E+14,Triad High School,4.11E+14,Triad CUSD 2,Troy,Madison,HIGH SCHOOL,Non Chicago School,17.3,64.8
+639,3.00E+14,Trico Senior High School,3.00E+14,Trico CUSD 176,Campbell Hill,Jackson,HIGH SCHOOL,Non Chicago School,44.6,50
+640,4.61E+14,Triopia Jr-Sr High School,4.61E+14,Triopia CUSD 27,Concord,Morgan,HIGH SCHOOL,Non Chicago School,24.3,52.4
+641,1.10E+14,Tuscola High School,1.10E+14,Tuscola CUSD 301,Tuscola,Douglas,HIGH SCHOOL,Non Chicago School,28.5,61.7
+642,3.40E+14,Deerfield High School,3.40E+14,Twp HSD 113,Deerfield,Lake,HIGH SCHOOL,Non Chicago School,2.8,88
+643,3.40E+14,Highland Park High School,3.40E+14,Twp HSD 113,Highland Park,Lake,HIGH SCHOOL,Non Chicago School,14.6,81.1
+644,2.71E+14,United High School,2.71E+14,United CUSD 304,Monmouth,Warren,HIGH SCHOOL,Non Chicago School,37.5,47.6
+645,4.91E+14,United Twp High School,4.91E+14,United Twp HSD 30,East Moline,Rock Island,HIGH SCHOOL,Non Chicago School,59.2,38.9
+646,9.01E+13,Urbana High School,9.01E+13,Urbana SD 116,Urbana,Champaign,HIGH SCHOOL,Non Chicago School,64.1,44.4
+647,2.20E+14,V I T Sr High School,2.20E+14,V I T CUSD 2,Table Grove,Fulton,HIGH SCHOOL,Non Chicago School,44.2,55
+648,56099365U260007,Bolingbrook High School,56099365U260000,Valley View CUSD 365U,Bolingbrook,Will,HIGH SCHOOL,Non Chicago School,59.6,46.2
+649,56099365U260008,Romeoville High School,56099365U260000,Valley View CUSD 365U,Romeoville,Will,HIGH SCHOOL,Non Chicago School,62.2,46.6
+650,4.51E+14,Valmeyer High School,4.51E+14,Valmeyer CUSD 3,Valmeyer,Monroe,HIGH SCHOOL,Non Chicago School,26.4,65.5
+651,3.03E+13,Vandalia Community High School,3.03E+13,Vandalia CUSD 203,Vandalia,Fayette,HIGH SCHOOL,Non Chicago School,48.7,43
+652,2.04E+13,Vienna High School,2.04E+13,Vienna HSD 133,Vienna,Johnson,HIGH SCHOOL,Non Chicago School,50.9,57.2
+653,1.10E+14,Villa Grove High School,1.10E+14,Villa Grove CUSD 302,Villa Grove,Douglas,HIGH SCHOOL,Non Chicago School,37.7,59.5
+654,4.60E+14,Virginia Sr High School,4.60E+14,Virginia CUSD 64,Virginia,Cass,HIGH SCHOOL,Non Chicago School,50.6,45.2
+655,2.01E+14,Mount Carmel High School,2.01E+14,Wabash CUSD 348,Mount Carmel,Wabash,HIGH SCHOOL,Non Chicago School,39.2,37.9
+656,2.50E+14,Waltonville High School,2.50E+14,Waltonville CUSD 1,Waltonville,Jefferson,HIGH SCHOOL,Non Chicago School,29.8,65.4
+657,8.04E+13,Warren Jr/Sr High School,8.04E+13,Warren CUSD 205,Warren,Jo Daviess,HIGH SCHOOL,Non Chicago School,32.8,42.7
+658,3.40E+14,Warren Township High School,3.40E+14,Warren Twp HSD 121,Gurnee,Lake,HIGH SCHOOL,Non Chicago School,15.5,69.8
+659,3.91E+14,Warrensburg-Latham High School,3.91E+14,Warrensburg-Latham CUSD 11,Warrensburg,Macon,HIGH SCHOOL,Non Chicago School,34,54.2
+660,2.60E+14,Warsaw Sr High School,2.60E+14,Warsaw CUSD 316,Warsaw,Hancock,HIGH SCHOOL,Non Chicago School,37.3,45.8
+661,5.31E+14,Washington Comm High School,5.31E+14,Washington CHSD 308,Washington,Tazewell,HIGH SCHOOL,Non Chicago School,28.2,65.4
+662,4.51E+14,Waterloo High School,4.51E+14,Waterloo CUSD 5,Waterloo,Monroe,HIGH SCHOOL,Non Chicago School,21.8,64.1
+663,3.40E+14,Wauconda High School,3.40E+14,Wauconda CUSD 118,Wauconda,Lake,HIGH SCHOOL,Non Chicago School,23.8,68.9
+664,3.40E+14,Waukegan High School,3.40E+14,Waukegan CUSD 60,Waukegan,Lake,HIGH SCHOOL,Non Chicago School,61.3,28.7
+665,4.61E+14,Waverly High School,4.61E+14,Waverly CUSD 6,Waverly,Morgan,HIGH SCHOOL,Non Chicago School,43.9,40.9
+666,2.01E+14,Wayne City High School,2.01E+14,Wayne City CUSD 100,Wayne City,Wayne,HIGH SCHOOL,Non Chicago School,53.9,47.2
+667,2.50E+14,Webber Twp High School,2.50E+14,Webber Twp HSD 204,Bluford,Jefferson,HIGH SCHOOL,Non Chicago School,38.4,43.9
+668,1.30E+14,Wesclin Sr High School,1.30E+14,Wesclin CUSD 3,Trenton,Clinton,HIGH SCHOOL,Non Chicago School,18.3,62.1
+669,8.01E+13,West Carroll High School,8.01E+13,West Carroll CUSD 314,Savanna,Carroll,HIGH SCHOOL,Non Chicago School,49.1,40.4
+670,2.70E+14,West Central High School,2.70E+14,West Central CUSD 235,Biggsville,Henderson,HIGH SCHOOL,Non Chicago School,45.3,45.5
+671,2.61E+14,West Prairie High School,2.61E+14,West Prairie CUSD 103,Sciota,McDonough,HIGH SCHOOL,Non Chicago School,46.2,46.5
+672,1.21E+14,West Richland High School,1.21E+14,West Richland CUSD 2,Noble,Richland,HIGH SCHOOL,Non Chicago School,42.9,25
+673,1.31E+14,Okawville Jr/Sr High School,1.31E+14,West Washington Co CUD 10,Okawville,Washington,HIGH SCHOOL,Non Chicago School,27.6,57.5
+674,1.08E+13,Western High School,1.08E+13,Western CUSD 12,Barry,Pike,HIGH SCHOOL,Non Chicago School,54.5,36.5
+675,5.41E+14,Westville High School,5.41E+14,Westville CUSD 2,Westville,Vermilion,HIGH SCHOOL,Non Chicago School,42.9,40.5
+676,2.80E+14,Wethersfield Jr/Sr High School,2.80E+14,Wethersfield CUSD 230,Kewanee,Henry,HIGH SCHOOL,Non Chicago School,42.2,45.7
+677,3.30E+14,Williamsfield High School,3.30E+14,Williamsfield CUSD 210,Williamsfield,Knox,HIGH SCHOOL,Non Chicago School,31.3,42.3
+678,5.11E+14,Williamsville High School,5.11E+14,Williamsville CUSD 15,Williamsville,Sangamon,HIGH SCHOOL,Non Chicago School,8.6,76.1
+679,56099209U260001,Wilmington High School,56099209U260000,Wilmington CUSD 209U,Wilmington,Will,HIGH SCHOOL,Non Chicago School,35.1,54.5
+680,4.61E+14,Winchester High School,4.61E+14,Winchester CUSD 1,Winchester,Scott,HIGH SCHOOL,Non Chicago School,34.3,57.5
+681,1.11E+14,Windsor Jr & Sr High School,1.11E+14,Windsor CUSD 1,Windsor,Shelby,HIGH SCHOOL,Non Chicago School,43.8,75
+682,4.10E+13,Winnebago High School,4.10E+13,Winnebago CUSD 323,Winnebago,Winnebago,HIGH SCHOOL,Non Chicago School,27,67.4
+683,1.71E+14,Woodland High School,1.71E+14,Woodland CUSD 5,Streator,Livingston,HIGH SCHOOL,Non Chicago School,37.8,43.5
+684,2.50E+14,Woodlawn Comm High School,2.50E+14,Woodlawn CHSD 205,Woodlawn,Jefferson,HIGH SCHOOL,Non Chicago School,31.3,58.3
+685,4.41E+14,Woodstock High School,4.41E+14,Woodstock CUSD 200,Woodstock,McHenry,HIGH SCHOOL,Non Chicago School,40.7,61.4
+686,4.41E+14,Woodstock North High School,4.41E+14,Woodstock CUSD 200,Woodstock,McHenry,HIGH SCHOOL,Non Chicago School,43.3,54.3
+687,2.40E+14,Yorkville High School,2.40E+14,Yorkville CUSD 115,Yorkville,Kendall,HIGH SCHOOL,Non Chicago School,20.7,60.5
+688,2.10E+14,Zeigler-Royalton High School,2.10E+14,Zeigler-Royalton CUSD 188,Zeigler,Franklin,HIGH SCHOOL,Non Chicago School,62.7,33.3
+689,3.40E+14,Zion-Benton Twnshp Hi Sch,3.40E+14,Zion-Benton Twp HSD 126,Zion,Lake,HIGH SCHOOL,Non Chicago School,56.1,38.7
+690,3.40E+14,New Tech High - Zion-Benton East,3.40E+14,Zion-Benton Twp HSD 126,Zion,Lake,HIGH SCHOOL,Non Chicago School,51,59.4
+0,1.50E+14,Harlan Community Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,91.1,11
+1,1.50E+14,Kenwood Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,72.3,52.9
+2,1.50E+14,Lane Technical High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,57.6,92.2
+3,1.50E+14,Morgan Park High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,79.6,30.6
+4,1.50E+14,Taft High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,60.2,44.1
+5,1.50E+14,Young Magnet High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,38.7,96.7
+6,1.50E+14,Clark Acad Prep Magnet High Schl*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,98.7,15.7
+7,1.50E+14,Lindblom Math & Science Acad HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,67,89.4
+8,1.50E+14,Ogden Int High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,47.3,41.5
+9,15016299025003CAJ01,Perspectives Chtr Joslin*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,91.2,44.4
+10,15016299025003CAJ02,Perspectives Chtr - Leadership Academy*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,94.2,18.6
+11,15016299025003CAJ05,Perspectives Chtr Iit*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,90.8,27.9
+12,15016299025006CAF05,Noble St Chtr-Comer*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,85.1,39.3
+13,15016299025007C,Young Womens Leadership Chartr HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,84.8,22.8
+14,15016299025201CAE02,Cics-Longwood*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,89.3,16.4
+15,15016299025201CAE14,Cics-Hawkins*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,96.8,3.5
+16,15016299025204CAG03,Univ Of Chgo Chtr-Woodlawn*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,84.1,25.8
+17,15016299025217C,Chicago Math & Sci Elem Charter*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,94.2,51.3
+18,15016299025225C,Chicago Virtual Charter School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,67.1,45.9
+19,15016299025232C,Catalyst Charter - Maria ES*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,94.5,30
+20,1.50E+14,Amundsen High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,91.9,31.3
+21,1.50E+14,Bogan High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,86,13.9
+22,1.50E+14,Carver Military Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.3,28.8
+23,1.50E+14,Crane Technical Prep High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,89,7.5
+24,1.50E+14,Farragut Career Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.9,19.4
+25,1.50E+14,Fenger Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.2,5.3
+26,1.50E+14,Foreman High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94.7,20.7
+27,1.50E+14,Gage Park High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.6,11.7
+28,1.50E+14,Harper High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.8,7.3
+29,1.50E+14,Hirsch Metropolitan High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,93.4,6.3
+30,1.50E+14,Hubbard High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97.9,33.6
+31,1.50E+14,Hyde Park Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.2,12.4
+32,1.50E+14,Kelly High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94.3,28.2
+33,1.50E+14,Kelvyn Park High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96,17.7
+34,1.50E+14,Kennedy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,83.5,39.8
+35,1.50E+14,Lake View High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,87.6,42.4
+36,1.50E+14,Marshall Metropolitan High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,83.7,5.7
+37,1.50E+14,Mather High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,88,27.6
+38,1.50E+14,Phillips Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94.4,7.3
+39,1.50E+14,Roosevelt High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96,17.9
+40,1.50E+14,Schurz High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94.1,19.6
+41,1.50E+14,Senn High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,88,40.9
+42,1.50E+14,King College Prep High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,76.3,64
+43,1.50E+14,Steinmetz College Prep HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,92.6,26.1
+44,1.50E+14,Sullivan High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,92.7,18
+45,1.50E+14,Tilden Career Communty Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.5,8.3
+46,1.50E+14,Von Steuben Metro Science HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,78,58.1
+47,1.50E+14,Lincoln Park High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,53.9,72.7
+48,1.50E+14,WashingtonG High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,90.1,25.9
+49,1.50E+14,Wells Community Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94,21
+50,1.50E+14,Chicago Vocational Career Acad HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97.8,4.9
+51,1.50E+14,Dunbar Vocational Career Acad HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97.7,10.7
+52,1.50E+14,Jones College Prep High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,46.1,98.8
+53,1.50E+14,Prosser Career Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,92.4,45.3
+54,1.50E+14,Richards Career Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,98.6,9
+55,1.50E+14,Simeon Career Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,92.8,24.1
+56,1.50E+14,Corliss High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,93.6,7.7
+57,1.50E+14,Clemente Community Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.1,7.9
+58,1.50E+14,Manley Career Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,82.1,10.2
+59,1.50E+14,Curie Metropolitan High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,93.8,36.4
+60,1.50E+14,Julian High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.6,13
+61,1.50E+14,Robeson High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.7,3.8
+62,1.50E+14,Juarez Community Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.9,25.2
+63,1.50E+14,Chicago HS for Agricult Sciences*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,52.8,58.6
+64,1.50E+14,Hancock College Preparatory HS,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94.5,29.1
+65,1.50E+14,Brooks College Prep Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,76.2,88.5
+66,1.50E+14,Northside College Preparatory Hs*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,37.3,99.8
+67,1.50E+14,Chicago Military Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,88.8,31.4
+68,1.50E+14,Payton College Preparatory HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,30.7,99.1
+69,1.50E+14,Dyett High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,89.8,1.6
+70,1.50E+14,Hope College Prep High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.8,4
+71,1.50E+14,Phoenix Military Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.4,47.2
+72,1.50E+14,Spry Community Links High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,98.4,28.7
+73,1.50E+14,Chicago Academy High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,84.7,34.2
+74,1.50E+14,Bowen High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,93.5,7.8
+75,1.50E+14,North-Grand High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.8,23.5
+76,1.50E+14,Raby High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.8,5.9
+77,1.50E+14,Rickover Naval Academy High Schl*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,85.8,50
+78,1.50E+14,Uplift Community High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.4,25.3
+79,1.50E+14,World Language High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.3,22
+80,1.50E+14,Douglass Academy High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,94.5,8.3
+81,1.50E+14,Devry Advantage Academy High Schl*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,71.7,77
+82,1.50E+14,Bronzeville Scholastic HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,92.3,18.6
+83,1.50E+14,School of Social Justice HS,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.3,16
+84,1.50E+14,Multicultural Acad of Scholarshp,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,98.6,12.2
+85,1.50E+14,Infinity MathScience & Tech HS,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,93.7,45.4
+86,1.50E+14,Austin Bus & Entrepreneurship HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.4,7
+87,1.50E+14,Austin Polytechnical Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,98.4,2.4
+88,1.50E+14,Collins Academy High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97.3,6.3
+89,1.50E+14,Marine Math and Science Academy H*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,96.3,33.1
+90,1.50E+14,Team Englewood Comm Acad HS,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97.5,4.5
+91,1.50E+14,VOISE Academy High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97.9,12.2
+92,1.50E+14,Community Services West High Sch,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,63.2,5.6
+93,1.50E+14,Orr Academy High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,92,9.8
+94,1.50E+14,Air Force Acad High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,87.4,39.1
+95,1.50E+14,Alcott Humanities High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,81.4,33
+96,1.50E+14,Chicago Technology Academy HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,91.6,23.4
+97,1.50E+14,Chicago HS for the Arts*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,49.7,53.5
+98,1.50E+14,Williams Medical Prep High Sch*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,88.9,26.5
+99,1.50E+14,Westinghouse High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,84.4,68.7
+100,1.50E+14,Eric Solorio Academy High School,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,95.4,30
+101,1.50E+14,South Shore Intl Col Prep HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,90.3,17.8
+102,1.50E+14,Chicago Excel Academy HS,1.50E+14,City of Chicago SD 299,Chicago,Cook,HIGH SCHOOL,Chicago School,97,4.2
+103,15016299025003CAJ04,Perspectives Chtr Calumet Tech*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,91.5,19.3
+104,15016299025005CAH00,Nth Lawndale Chtr-Christiana*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,95.5,13
+105,15016299025005CAH01,Nth Lawndale Chtr-Collins*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,95.3,12.7
+106,15016299025006CAF01,Noble St Chtr-Pritzker*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,95.1,61.5
+107,15016299025006CAF02,Noble St Chtr-Rauner*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,87.7,53.9
+108,15016299025006CAF03,Noble St Chtr-Rowe Clark*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,92.7,39.1
+109,15016299025006CAF04,Noble St Chtr-Golder*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,89,55.6
+110,15016299025006CAF06,Noble St Chtr-Uic*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,87.9,72.8
+111,15016299025006CAF07,Noble St Chtr-Chgo Bulls*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,88.9,55.1
+112,15016299025006CAF08,Noble St Chtr-Muchin*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,84.9,59.1
+113,15016299025006CAF09,Noble Street Chtr - Johnson*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,92.5,44.2
+114,15016299025006CAF14,Noble St Chtr-Noble*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,91,45.2
+115,15016299025008CAP02,Aspira Chtr - Early College Hs*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,94.9,10.4
+116,15016299025008CAP03,Aspira Chtr - Ramirez Hs*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,100,9.5
+117,15016299025009C,Ace Technical Charter High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,97.7,18
+118,15016299025010C,Urban Prep Chtr Acad Englewood HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,83.1,23.3
+119,15016299025011C,Ford Power House Charter HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,98.3,22.5
+120,15016299025013C,Urban Prep Chtr Acad Bronzeville*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,78.6,31.9
+121,15016299025014C,Chicago Talent Development HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,97.7,9.5
+122,15016299025015C,EPIC Academy High School*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,95.8,15.9
+123,15016299025016C,Urban Prep Chtr Acad West Campus*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,89.1,25.5
+124,15016299025017C,Prologue - Johnston Fine Arts HS*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER SCH,Chicago School,91.3,3.6
+125,15016299025020CBS00,Instituto Acad Chtr Health Sciences*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,96.5,27.3
+126,15016299025020CBS01,Instituto Justice Chtr Acad*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,94.5,6.2
+127,15016299025020CBS01a,Instituto Chtr Rudy Lozano Mastery*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,96.3,9.1
+128,15016299025201CAE06,Cics-Northtown*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,77.3,47
+129,15016299025201CAE10,Cics-Ellison*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,88.1,15
+130,15016299025203CAD01,Shabazz Chtr-Dusable*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,95.3,6.2
+131,15016299025205CAI09,Uno Chtr - Major Hector P.Garcia*,1.50E+14,City of Chicago SD 299,Chicago,Cook,CHARTER NET SCH,Chicago School,95.4,30.5
